@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>신예리의 포트폴리오 정리용 블로그</description>
+    <link>
+    https://shinyelee.github.io</link>
+    
+      
+      <item>
+        <title>Timetable</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./iu1&quot;&gt;Packshot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./iu2&quot;&gt;Timetable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Mon, 08 Mar 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/iu2</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/iu2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Packshot</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./iu1&quot;&gt;Packshot&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./iu2&quot;&gt;Timetable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Fri, 05 Mar 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/iu1</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/iu1</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>첫 글 test</title>
+        
+          <description>&lt;p&gt;글은 마크다운 형식으로 작성해야 한다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Mon, 01 Mar 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/test</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/test</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
