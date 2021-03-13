@@ -24,6 +24,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--web font-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+    <!-- syntax.css -->
+    <link rel="stylesheet" href="/assets/built/syntax.css">
     <!-- highlight.js -->
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
@@ -50,6 +52,12 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="첫 글 test" />
     <meta property="og:description" content="글은 마크다운 형식으로 작성해야 한다.
+
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+
 " />
     <meta property="og:url" content="https://shinyelee.github.io/test" />
     <meta property="og:image" content="https://shinyelee.github.io/assets/built/images/background-frontend.jpg" />
@@ -61,6 +69,12 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="첫 글 test" />
     <meta name="twitter:description" content="글은 마크다운 형식으로 작성해야 한다.
+
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+
 " />
     <meta name="twitter:url" content="https://shinyelee.github.io/" />
     <meta name="twitter:image" content="https://shinyelee.github.io/assets/built/images/background-frontend.jpg" />
@@ -94,6 +108,12 @@
         "@id": "https://shinyelee.github.io/test"
     },
     "description": "글은 마크다운 형식으로 작성해야 한다.
+
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+
 "
 }
     </script>
@@ -191,6 +211,12 @@ into the {body} of the default.hbs template -->
             <section class="post-full-content">
                 <div class="kg-card-markdown">
                     <p>글은 마크다운 형식으로 작성해야 한다.</p>
+
+<div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">function</span> <span class="nx">syntaxHighlight</span><span class="p">(</span><span class="nx">code</span><span class="p">)</span> <span class="p">{</span>
+   <span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="s1">'Hello World'</span><span class="p">;</span>
+   <span class="kd">var</span> <span class="nx">bar</span> <span class="o">=</span> <span class="mi">100</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div></div>
 
                 </div>
             </section>
