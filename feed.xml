@@ -1,4 +1,65 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-16T23:08:04+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee</title><subtitle>신예리의 포트폴리오 정리용 블로그</subtitle><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-16T07:00:00+09:00</published><updated>2021-03-16T07:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;h1 id=&quot;moviehere&quot;&gt;Moviehere&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-17T00:43:13+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee</title><subtitle>신예리의 포트폴리오 정리용 블로그</subtitle><entry><title type="html">Spring Project</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="Spring Project" /><published>2021-03-16T23:00:00+09:00</published><updated>2021-03-16T23:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/loveeat.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;[유튜브]&lt;/a&gt;
+&lt;a href=&quot;https://github.com/rustywhite404/luvit&quot;&gt;[깃허브]&lt;/a&gt;
+&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;[사이트]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;레시피 공유 웹 사이트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2020.10.20~2020.11.17 (인원: 8)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Java, JSP, JS(jQuery, AJAX) (+ HTML, CSS)&lt;/li&gt;
+  &lt;li&gt;Windows10, MySQL(5.7), Tomcat(8.5), Spring(4)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
+&lt;p&gt;(직접 참여: 굵은 글씨로 표시)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;게시판
+    &lt;ol&gt;
+      &lt;li&gt;&lt;strong&gt;기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;추가 기능: &lt;strong&gt;페이징,&lt;/strong&gt; 필터링, &lt;strong&gt;검색, 파일 첨부, 추천, 댓글(+ 별점),&lt;/strong&gt; 태그&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;회원관리
+    &lt;ol&gt;
+      &lt;li&gt;기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/li&gt;
+      &lt;li&gt;추가 기능: 비밀번호 암호화, 이메일 인증, SNS 로그인 연동, 아이디/비밀번호 찾기&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;관리자 페이지
+    &lt;ol&gt;
+      &lt;li&gt;게시판 관리: 게시글 검색, 게시글 열람, 게시글 강제삭제&lt;/li&gt;
+      &lt;li&gt;회원 관리: 회원 검색, 회원정보 열람, 회원 강제탈퇴&lt;/li&gt;
+      &lt;li&gt;주문 관리: 배송상태 변경(배송 준비/배송 시작/배송중/배송 완료)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;스토어
+    &lt;ol&gt;
+      &lt;li&gt;기본 CRUD: 상품 등록, 상품 보기, 상품 수정, 상품 삭제&lt;/li&gt;
+      &lt;li&gt;추가 기능: 페이징, 검색, 파일 첨부, 필터링(상품후기 카테고리별로 열람)&lt;/li&gt;
+      &lt;li&gt;장바구니: 상품 담기, 수량/옵션 조정, 상품 삭제&lt;/li&gt;
+      &lt;li&gt;주문 및 결제: 주문정보 입력, 결제수단 선택, 카카오페이 결제&lt;/li&gt;
+      &lt;li&gt;주문내역 확인: 배송상태 확인, 주소지 수정&lt;/li&gt;
+      &lt;li&gt;API 활용: 배송지 입력(카카오 도로명주소), 결제(카카오페이)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;기타
+    &lt;ol&gt;
+      &lt;li&gt;실시간 채팅(웹소켓)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Loveeat</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-16T07:00:00+09:00</published><updated>2021-03-16T07:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;moviehere&quot;&gt;Moviehere&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/moviehere.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
@@ -26,15 +87,15 @@
   &lt;li&gt;게시판
     &lt;ol&gt;
       &lt;li&gt;기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/li&gt;
-      &lt;li&gt;게시글 정렬: 필터링(장르별), 정렬(최신순/공감순), 페이징, 검색&lt;/li&gt;
+      &lt;li&gt;게시글 정렬: 필터링(장르별), 정렬(최신순/공감순), 페이징, 검색, 공감&lt;/li&gt;
       &lt;li&gt;API 활용: 신고(구글 이메일), 댓글(Disqus)&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;회원관리
     &lt;ol&gt;
-      &lt;li&gt;기본 CRUD(회원가입, 마이페이지, 정보 수정, 회원탈퇴)&lt;/li&gt;
-      &lt;li&gt;api 활용: 인증 메일 발송(구글 이메일)&lt;/li&gt;
-      &lt;li&gt;권한 제한: 준회원/정회원 구분&lt;/li&gt;
+      &lt;li&gt;기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/li&gt;
+      &lt;li&gt;API 활용: 인증 메일 발송(구글 이메일)&lt;/li&gt;
+      &lt;li&gt;접근 권한: 회원 등급에 따라 게시판 접근 제한&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;기타
@@ -51,12 +112,4 @@
 
 &lt;p&gt;컴백 티저 일정&lt;/p&gt;
 
-&lt;p&gt;출처 : https://twitter.com/_IUofficial/status/1368577189013114884&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release Packshot Timetable</summary></entry><entry><title type="html">Packshot</title><link href="https://shinyelee.github.io/iu1" rel="alternate" type="text/html" title="Packshot" /><published>2021-03-05T10:00:00+09:00</published><updated>2021-03-05T10:00:00+09:00</updated><id>https://shinyelee.github.io/iu1</id><content type="html" xml:base="https://shinyelee.github.io/iu1">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./iu1&quot;&gt;Packshot&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./iu2&quot;&gt;Timetable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;앨범 예약 구매&lt;/p&gt;
-
-&lt;p&gt;출처 : https://twitter.com/_IUofficial/status/1367716525554081798&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release Packshot Timetable</summary></entry></feed>
+&lt;p&gt;출처 : https://twitter.com/_IUofficial/status/1368577189013114884&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release Packshot Timetable</summary></entry></feed>

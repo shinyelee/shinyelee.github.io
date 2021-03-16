@@ -4,7 +4,23 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://shinyelee.github.io/test.html</loc>
+        <loc>https://shinyelee.github.io/loveeat.html</loc>
+        
+        <lastmod>2021-03-16T23:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://shinyelee.github.io/moviehere.html</loc>
         
         <lastmod>2021-03-16T07:00:00+09:00</lastmod>
         
@@ -23,22 +39,6 @@
         <loc>https://shinyelee.github.io/iu2.html</loc>
         
         <lastmod>2021-03-08T10:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>https://shinyelee.github.io/iu1.html</loc>
-        
-        <lastmod>2021-03-05T10:00:00+09:00</lastmod>
         
 
         
