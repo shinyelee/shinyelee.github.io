@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-17T00:43:13+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee</title><subtitle>신예리의 포트폴리오 정리용 블로그</subtitle><entry><title type="html">Spring Project</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="Spring Project" /><published>2021-03-16T23:00:00+09:00</published><updated>2021-03-16T23:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-17T01:34:05+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee</title><subtitle>신예리의 포트폴리오 정리용 블로그</subtitle><entry><title type="html">Spring Project</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="Spring Project" /><published>2021-03-16T06:00:00+09:00</published><updated>2021-03-16T06:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/loveeat.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;[유튜브]&lt;/a&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rustywhite404/luvit&quot;&gt;[유튜브]&lt;/a&gt;
 &lt;a href=&quot;https://github.com/rustywhite404/luvit&quot;&gt;[깃허브]&lt;/a&gt;
 &lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;[사이트]&lt;/a&gt;&lt;/p&gt;
 
@@ -49,9 +49,7 @@
       &lt;li&gt;기본 CRUD: 상품 등록, 상품 보기, 상품 수정, 상품 삭제&lt;/li&gt;
       &lt;li&gt;추가 기능: 페이징, 검색, 파일 첨부, 필터링(상품후기 카테고리별로 열람)&lt;/li&gt;
       &lt;li&gt;장바구니: 상품 담기, 수량/옵션 조정, 상품 삭제&lt;/li&gt;
-      &lt;li&gt;주문 및 결제: 주문정보 입력, 결제수단 선택, 카카오페이 결제&lt;/li&gt;
-      &lt;li&gt;주문내역 확인: 배송상태 확인, 주소지 수정&lt;/li&gt;
-      &lt;li&gt;API 활용: 배송지 입력(카카오 도로명주소), 결제(카카오페이)&lt;/li&gt;
+      &lt;li&gt;주문 및 결제: 주문정보 입력(카카오 도로명주소), 배송상태 확인, 결제수단 선택 및 결제(카카오페이)&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;기타
@@ -59,7 +57,7 @@
       &lt;li&gt;실시간 채팅(웹소켓)&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Loveeat</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-16T07:00:00+09:00</published><updated>2021-03-16T07:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;moviehere&quot;&gt;Moviehere&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Loveeat</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-15T07:00:00+09:00</published><updated>2021-03-15T07:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;moviehere&quot;&gt;Moviehere&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/moviehere.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
@@ -104,12 +102,4 @@
       &lt;li&gt;부트스트랩 활용: 반응형 화면&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Moviehere</summary></entry><entry><title type="html">Timetable</title><link href="https://shinyelee.github.io/iu2" rel="alternate" type="text/html" title="Timetable" /><published>2021-03-08T10:00:00+09:00</published><updated>2021-03-08T10:00:00+09:00</updated><id>https://shinyelee.github.io/iu2</id><content type="html" xml:base="https://shinyelee.github.io/iu2">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./iu1&quot;&gt;Packshot&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./iu2&quot;&gt;Timetable&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;컴백 티저 일정&lt;/p&gt;
-
-&lt;p&gt;출처 : https://twitter.com/_IUofficial/status/1368577189013114884&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">아이유 5th Album &amp;lt;LILAC&amp;gt; 2021.03.25 Release Packshot Timetable</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Moviehere</summary></entry></feed>
