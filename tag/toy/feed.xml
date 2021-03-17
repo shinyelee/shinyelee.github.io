@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://shinyelee.github.io/tag/toy/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-03-18T00:29:02+09:00</updated>
+  <id>https://shinyelee.github.io/tag/toy/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">shinyelee.github.io | </title>
+  
+
+  
+    <subtitle>shinyelee의 포트폴리오용 블로그</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">test2</title>
+      <link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" />
+      <published>2021-03-17T09:00:00+09:00</published>
+      <updated>2021-03-17T09:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/test2</id>
+      <content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="toy" />
+      
+
+      
+        <summary type="html">test</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>신예리의 포트폴리오 정리용 블로그</description>
+    <description>shinyelee의 포트폴리오용 블로그</description>
     <link>
     https://shinyelee.github.io</link>
+    
+      
+      <item>
+        <title>test2</title>
+        
+          <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 17 Mar 2021 09:00:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/test2</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/test2</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>test</title>
+        
+          <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 17 Mar 2021 09:00:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/test</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/test</guid>
+      </item>
+      
     
       
       <item>

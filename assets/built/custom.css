@@ -49,7 +49,7 @@ span.table-of-contents-list {
     font-size: 18px;
     font-weight: bold;
     color: #ce180b;
-    font-family: Georgia, 'Nanum Gothic', serif !important;
+    font-family: 'Noto Sans KR', sans-serif !important;
 }
 
 ul.table-of-contents-list, ol.table-of-contents-list {
@@ -58,7 +58,7 @@ ul.table-of-contents-list, ol.table-of-contents-list {
     padding: 0px;
     max-width: 250px;
     width: 100%;
-    font-family: Georgia, 'Nanum Gothic', serif !important;
+    font-family: 'Noto Sans KR', sans-serif !important;
 }
 
 ul.table-of-contents-list li, ol.table-of-contents-list li {
@@ -451,7 +451,7 @@ ul.lecture-reference li:before {
     position: absolute;
     top: 0;
     line-height: 50px;
-    font-family: "fontawesome";
+    font-family: "FontAwesome";
     color: #fff;
     speak: none;
     -webkit-font-smoothing: antialiased;

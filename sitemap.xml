@@ -4,6 +4,38 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>https://shinyelee.github.io/test2.html</loc>
+        
+        <lastmod>2021-03-17T09:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://shinyelee.github.io/test.html</loc>
+        
+        <lastmod>2021-03-17T09:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>https://shinyelee.github.io/movieapp.html</loc>
         
         <lastmod>2021-03-17T01:00:00+09:00</lastmod>

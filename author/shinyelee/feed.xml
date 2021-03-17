@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-17T19:37:18+09:00</updated>
+  <updated>2021-03-18T00:29:02+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -12,11 +12,11 @@
   
 
   
-    <title type="html">shinyelee | </title>
+    <title type="html">shinyelee.github.io | </title>
   
 
   
-    <subtitle>신예리의 포트폴리오 정리용 블로그</subtitle>
+    <subtitle>shinyelee의 포트폴리오용 블로그</subtitle>
   
 
   
@@ -30,6 +30,74 @@
   
   
 
+  
+    <entry>
+      <title type="html">test</title>
+      <link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" />
+      <published>2021-03-17T09:00:00+09:00</published>
+      <updated>2021-03-17T09:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/test</id>
+      <content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="study" />
+      
+
+      
+        <summary type="html">test</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">test2</title>
+      <link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" />
+      <published>2021-03-17T09:00:00+09:00</published>
+      <updated>2021-03-17T09:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/test2</id>
+      <content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="toy" />
+      
+
+      
+        <summary type="html">test</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">React Project</title>
