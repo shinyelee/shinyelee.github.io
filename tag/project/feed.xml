@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/project/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-17T01:34:05+09:00</updated>
+  <updated>2021-03-17T19:37:18+09:00</updated>
   <id>https://shinyelee.github.io/tag/project/feed.xml</id>
 
   
@@ -30,6 +30,91 @@
   
   
 
+  
+    <entry>
+      <title type="html">React Project</title>
+      <link href="https://shinyelee.github.io/movieapp" rel="alternate" type="text/html" title="React Project" />
+      <published>2021-03-17T01:00:00+09:00</published>
+      <updated>2021-03-17T01:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/movieapp</id>
+      <content type="html" xml:base="https://shinyelee.github.io/movieapp">&lt;h1 id=&quot;movieapp&quot;&gt;Movieapp&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/movieapp.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/movie-app&quot;&gt;[유튜브]&lt;/a&gt;
+&lt;a href=&quot;https://github.com/shinyelee/movie-app&quot;&gt;[깃허브]&lt;/a&gt;
+&lt;a href=&quot;https://shinye0213.tistory.com/category/PROJECT/Node.js%20React&quot;&gt;[블로그]&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;최신영화정보 사이트&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;2021.02.16~2021.03.11&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;JS (+ HTML, CSS-AntDesign)&lt;/li&gt;
+  &lt;li&gt;Windows10, MongoDB, Node.js, React, Redux, VSCode&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;회원관리
+    &lt;ol&gt;
+      &lt;li&gt;기본 기능: 회원 가입, 회원 탈퇴&lt;/li&gt;
+      &lt;li&gt;추가 기능: 아이디 저장, 비밀번호 암호화&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;최신영화정보
+    &lt;ol&gt;
+      &lt;li&gt;API 활용: 최신영화정보 불러오기&lt;/li&gt;
+      &lt;li&gt;추가 기능: 페이징&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;하트(Favorite)
+    &lt;ol&gt;
+      &lt;li&gt;기본 기능: 리스트에 등록, 리스트에서 삭제&lt;/li&gt;
+      &lt;li&gt;추가 기능: 포스터 썸네일&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;기타
+    &lt;ol&gt;
+      &lt;li&gt;API 활용: 댓글(무한 대댓글)&lt;/li&gt;
+      &lt;li&gt;좋아요/싫어요&lt;/li&gt;
+      &lt;li&gt;반응형 화면&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="project" />
+      
+
+      
+        <summary type="html">Movieapp</summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Spring Project</title>
