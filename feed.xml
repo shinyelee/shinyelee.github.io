@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-19T00:01:49+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>shinyelee의 포트폴리오용 블로그</subtitle><entry><title type="html">test2</title><link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" /><published>2021-03-18T00:00:00+09:00</published><updated>2021-03-18T00:00:00+09:00</updated><id>https://shinyelee.github.io/test2</id><content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="toy" /><summary type="html">test</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2021-03-17T14:00:00+09:00</published><updated>2021-03-17T14:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="study" /><summary type="html">test</summary></entry><entry><title type="html">React Project</title><link href="https://shinyelee.github.io/movieapp" rel="alternate" type="text/html" title="React Project" /><published>2021-03-16T16:00:00+09:00</published><updated>2021-03-16T16:00:00+09:00</updated><id>https://shinyelee.github.io/movieapp</id><content type="html" xml:base="https://shinyelee.github.io/movieapp">&lt;h1 id=&quot;movieapp&quot;&gt;Movieapp&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-20T23:57:06+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>shinyelee의 포트폴리오용 블로그</subtitle><entry><title type="html">test2</title><link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" /><published>2021-03-18T00:00:00+09:00</published><updated>2021-03-18T00:00:00+09:00</updated><id>https://shinyelee.github.io/test2</id><content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="toy" /><summary type="html">test</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2021-03-17T14:00:00+09:00</published><updated>2021-03-17T14:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="study" /><summary type="html">test</summary></entry><entry><title type="html">React Project</title><link href="https://shinyelee.github.io/movieapp" rel="alternate" type="text/html" title="React Project" /><published>2021-03-16T16:00:00+09:00</published><updated>2021-03-16T16:00:00+09:00</updated><id>https://shinyelee.github.io/movieapp</id><content type="html" xml:base="https://shinyelee.github.io/movieapp">&lt;h1 id=&quot;movieapp&quot;&gt;Movieapp&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/movieapp.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
@@ -108,49 +108,54 @@
       &lt;li&gt;실시간 채팅(웹소켓)&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Loveeat</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-14T22:00:00+09:00</published><updated>2021-03-14T22:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;moviehere&quot;&gt;Moviehere&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Loveeat</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-14T22:00:00+09:00</published><updated>2021-03-14T22:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;필름feelm&quot;&gt;필름(Feelm)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/moviehere.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;[유튜브]&lt;/a&gt;
-&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;[깃허브]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;영화 리뷰 웹 사이트&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&quot;feelm&quot;&gt;Feelm&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-film&quot;&gt;
+ 영화 리뷰 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;2020.08.04~2020.09.05&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt;
+ 2020.08.04~2020.09.05&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Java, JSP, JS (+ HTML, CSS-bootstrap)&lt;/li&gt;
-  &lt;li&gt;Windows10, MySQL(5.6), Tomcat(8.5), Eclipse&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt;
+ HTML5/CSS3 , JSes6, jQuery, Bootstrap3&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-cog&quot;&gt;
+ Java8&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-database&quot;&gt;
+ MySQL5.6&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-power-off&quot;&gt;
+ Windows10, Tomcat8.5, Eclipse3.0&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;게시판
-    &lt;ol&gt;
-      &lt;li&gt;기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/li&gt;
-      &lt;li&gt;게시글 정렬: 필터링(장르별), 정렬(최신순/공감순), 페이징, 검색, 공감&lt;/li&gt;
-      &lt;li&gt;API 활용: 신고(구글 이메일), 댓글(Disqus)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;회원관리
-    &lt;ol&gt;
-      &lt;li&gt;기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/li&gt;
-      &lt;li&gt;API 활용: 인증 메일 발송(구글 이메일)&lt;/li&gt;
-      &lt;li&gt;접근 권한: 회원 등급에 따라 게시판 접근 제한&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;기타
-    &lt;ol&gt;
-      &lt;li&gt;API 활용: 지도(카카오맵)&lt;/li&gt;
-      &lt;li&gt;부트스트랩 활용: 반응형 화면&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">Moviehere</summary></entry></feed>
+
+&lt;p&gt;&lt;i class=&quot;fa fa-list-alt&quot;&gt;
+ 게시판&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;
+ 기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-filter&quot;&gt;
+ 게시글 정렬: 필터링(장르별), 정렬(최신순/공감순), 페이징, 검색, 공감&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-comments-o&quot;&gt;
+ API 활용: 신고(구글 이메일), 댓글(Disqus)&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-users&quot;&gt;
+ 회원관리&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-key&quot;&gt;
+ 기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-exclamation-triangle&quot;&gt;
+ 접근 권한: 회원 등급에 따라 게시판 접근 제한&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-envelope&quot;&gt;
+ API 활용: 인증 메일 발송(구글 이메일)&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;
+ 기타&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-map-marker&quot;&gt;
+ API 활용: 지도(카카오맵)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-tablet&quot;&gt;
+ 부트스트랩: 반응형 화면&lt;/i&gt;&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">필름(Feelm)</summary></entry></feed>
