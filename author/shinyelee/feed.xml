@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-20T23:57:06+09:00</updated>
+  <updated>2021-03-21T01:50:29+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -190,66 +190,59 @@
       <published>2021-03-15T21:00:00+09:00</published>
       <updated>2021-03-15T21:00:00+09:00</updated>
       <id>https://shinyelee.github.io/loveeat</id>
-      <content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
+      <content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;애잇loveeat&quot;&gt;애잇(Loveeat)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/loveeat.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/rustywhite404/luvit&quot;&gt;[유튜브]&lt;/a&gt;
-&lt;a href=&quot;https://github.com/rustywhite404/luvit&quot;&gt;[깃허브]&lt;/a&gt;
-&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;[사이트]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
+&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;데모&lt;/i&gt;&lt;/a&gt; 
+&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;레시피 공유 웹 사이트&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-cutlery&quot;&gt;
+ 레시피 공유 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;2020.10.20~2020.11.17 (인원: 8)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt;
+ 2020.10.20~2020.11.17 (총 개발인원: 8)&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Java, JSP, JS(jQuery, AJAX) (+ HTML, CSS)&lt;/li&gt;
-  &lt;li&gt;Windows10, MySQL(5.7), Tomcat(8.5), Spring(4)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt;
+ HTML5/CSS3, JSes6, jQuery, AJAX&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-cogs&quot;&gt;
+ Java8&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-database&quot;&gt;
+ MySQL5.7&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-power-off&quot;&gt;
+ Windows10, Cafe24, Spring(STS4)&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
-&lt;p&gt;(직접 참여: 굵은 글씨로 표시)&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;게시판
-    &lt;ol&gt;
-      &lt;li&gt;&lt;strong&gt;기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;추가 기능: &lt;strong&gt;페이징,&lt;/strong&gt; 필터링, &lt;strong&gt;검색, 파일 첨부, 추천, 댓글(+ 별점),&lt;/strong&gt; 태그&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;회원관리
-    &lt;ol&gt;
-      &lt;li&gt;기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/li&gt;
-      &lt;li&gt;추가 기능: 비밀번호 암호화, 이메일 인증, SNS 로그인 연동, 아이디/비밀번호 찾기&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;관리자 페이지
-    &lt;ol&gt;
-      &lt;li&gt;게시판 관리: 게시글 검색, 게시글 열람, 게시글 강제삭제&lt;/li&gt;
-      &lt;li&gt;회원 관리: 회원 검색, 회원정보 열람, 회원 강제탈퇴&lt;/li&gt;
-      &lt;li&gt;주문 관리: 배송상태 변경(배송 준비/배송 시작/배송중/배송 완료)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;스토어
-    &lt;ol&gt;
-      &lt;li&gt;기본 CRUD: 상품 등록, 상품 보기, 상품 수정, 상품 삭제&lt;/li&gt;
-      &lt;li&gt;추가 기능: 페이징, 검색, 파일 첨부, 필터링(상품후기 카테고리별로 열람)&lt;/li&gt;
-      &lt;li&gt;장바구니: 상품 담기, 수량/옵션 조정, 상품 삭제&lt;/li&gt;
-      &lt;li&gt;주문 및 결제: 주문정보 입력(카카오 도로명주소), 배송상태 확인, 결제수단 선택 및 결제(카카오페이)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;기타
-    &lt;ol&gt;
-      &lt;li&gt;실시간 채팅(웹소켓)&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content>
+&lt;p&gt;&lt;i class=&quot;fa fa-list-alt&quot;&gt;&lt;b&gt; 게시판&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt; 기본CRUD&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-tags&quot;&gt; 필터링, 페이징, 검색, 태그&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-picture-o&quot;&gt; 썸네일, 이미지 첨부&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-comment&quot;&gt; 댓글CRUD, 댓글로 별점 부여&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;b&gt; 회원관리&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-key&quot;&gt; 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-at&quot;&gt; 아이디/비밀번호 찾기, 이메일 인증&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-google&quot;&gt; SNS 로그인 연동&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-lock&quot;&gt; 비밀번호 암호화&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-exclamation-triangle&quot;&gt;&lt;b&gt; 관리자&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-th-list&quot;&gt; 글 검색, 글 보기, 글 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-users&quot;&gt; 회원 검색, 회원정보 열람, 회원 강제탈퇴&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-truck&quot;&gt; 배송상태 변경(배송 준비/배송 시작/배송중/배송 완료)&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-home&quot;&gt;&lt;b&gt; 스토어&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-gift&quot;&gt; 상품 등록, 상품 보기, 상품 수정, 상품 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-filter&quot;&gt; 필터링(상품후기 카테고리별로 열람), 페이징, 검색&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-picture-o&quot;&gt; 썸네일, 이미지 첨부&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-shopping-cart&quot;&gt; 상품 담기, 수량/옵션 조정, 상품 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-credit-card&quot;&gt; 주문정보 입력(카카오 도로명주소), 배송상태 확인, 결제(카카오페이)&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;b&gt; 기타&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-comments&quot;&gt; 실시간 채팅(웹소켓)&lt;/i&gt;&lt;/p&gt;</content>
 
       
       
@@ -270,7 +263,7 @@
       
 
       
-        <summary type="html">Loveeat</summary>
+        <summary type="html">애잇(Loveeat)</summary>
       
 
       
@@ -287,10 +280,10 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/moviehere.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
+&lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;feelm&quot;&gt;Feelm&lt;/h2&gt;
+&lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-film&quot;&gt;
  영화 리뷰 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
@@ -300,8 +293,8 @@
 
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt;
- HTML5/CSS3 , JSes6, jQuery, Bootstrap3&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-cog&quot;&gt;
+ HTML5/CSS3, JSes6, jQuery, Bootstrap3&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-cogs&quot;&gt;
  Java8&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-database&quot;&gt;
  MySQL5.6&lt;/i&gt;&lt;br /&gt;
@@ -309,31 +302,21 @@
  Windows10, Tomcat8.5, Eclipse3.0&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-list-alt&quot;&gt;&lt;b&gt; 게시판&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt; 기본CRUD&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-filter&quot;&gt; 장르별 필터링, 페이징, 검색&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-heart&quot;&gt; 게시글 공감(추천), 게시글을 최신순 또는 공감순 정렬&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-comment&quot;&gt; 댓글(Disqus) &lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-at&quot;&gt; 관리자에게 신고 메일 발송(구글 이메일)&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-list-alt&quot;&gt;
- 게시판&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-pencil-square-o&quot;&gt;
- 기본 CRUD: 글 작성, 글 보기, 글 수정, 글 삭제&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-filter&quot;&gt;
- 게시글 정렬: 필터링(장르별), 정렬(최신순/공감순), 페이징, 검색, 공감&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-comments-o&quot;&gt;
- API 활용: 신고(구글 이메일), 댓글(Disqus)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-user&quot;&gt;&lt;b&gt; 회원관리&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-key&quot;&gt; 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-exclamation-triangle&quot;&gt; 회원등급(준회원/정회원)에 따라 게시판 접근 수준 제한&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-at&quot;&gt; 회원가입시 정회원 인증을 위한 메일 발송(구글 이메일)&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-users&quot;&gt;
- 회원관리&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-key&quot;&gt;
- 기본 CRUD: 회원 가입, 마이 페이지, 정보 수정, 회원 탈퇴&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-exclamation-triangle&quot;&gt;
- 접근 권한: 회원 등급에 따라 게시판 접근 제한&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-envelope&quot;&gt;
- API 활용: 인증 메일 발송(구글 이메일)&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;
- 기타&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-map-marker&quot;&gt;
- API 활용: 지도(카카오맵)&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-tablet&quot;&gt;
- 부트스트랩: 반응형 화면&lt;/i&gt;&lt;/p&gt;</content>
+&lt;p&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;b&gt; 기타&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-map-marker&quot;&gt; 지도에 회사 위치 표시(카카오맵)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-tablet&quot;&gt; 반응형 화면(부트스트랩)&lt;/i&gt;&lt;/p&gt;</content>
 
       
       
