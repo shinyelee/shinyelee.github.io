@@ -52,7 +52,7 @@
     <meta property="og:site_name" content="shinyelee.github.io" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="JSP Model 1 Project" />
-    <meta property="og:description" content="필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 장르별 필터링, 페이징, 검색 게시글 공감(추천), 게시글을 최신순 또는 공감순 정렬 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴 회원등급(준회원/정회원)에 따라 게시판 접근" />
+    <meta property="og:description" content="필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 페이징 카테고리별 필터링 검색 게시글 최신순/공감순 정렬 게시글 공감(추천) 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원 가입/탈퇴, 회원정보 보기/수정 회원등급(준/정) 따라 게시판 접근 제한 회원가입시 인증" />
     <meta property="og:url" content="https://shinyelee.github.io/moviehere" />
     <meta property="og:image" content="https://shinyelee.github.io/assets/built/images/moviehere.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
@@ -62,7 +62,7 @@
     <meta property="article:tag" content="Project" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="JSP Model 1 Project" />
-    <meta name="twitter:description" content="필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 장르별 필터링, 페이징, 검색 게시글 공감(추천), 게시글을 최신순 또는 공감순 정렬 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴 회원등급(준회원/정회원)에 따라 게시판 접근" />
+    <meta name="twitter:description" content="필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 페이징 카테고리별 필터링 검색 게시글 최신순/공감순 정렬 게시글 공감(추천) 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원 가입/탈퇴, 회원정보 보기/수정 회원등급(준/정) 따라 게시판 접근 제한 회원가입시 인증" />
     <meta name="twitter:url" content="https://shinyelee.github.io/" />
     <meta name="twitter:image" content="https://shinyelee.github.io/assets/built/images/moviehere.png" />
     <meta name="twitter:label1" content="Written by" />
@@ -94,7 +94,7 @@
         "@type": "WebPage",
         "@id": "https://shinyelee.github.io/moviehere"
     },
-    "description": "필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 장르별 필터링, 페이징, 검색 게시글 공감(추천), 게시글을 최신순 또는 공감순 정렬 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴 회원등급(준회원/정회원)에 따라 게시판 접근"
+    "description": "필름(Feelm) 깃허브 유튜브 주제 영화 리뷰 웹 사이트 개발기간 2020.08.04~2020.09.05 개발환경 HTML5/CSS3, JSes6, jQuery, Bootstrap3 Java8 MySQL5.6 Windows10, Tomcat8.5, Eclipse3.0 기능 게시판 기본CRUD 페이징 카테고리별 필터링 검색 게시글 최신순/공감순 정렬 게시글 공감(추천) 댓글(Disqus) 관리자에게 신고 메일 발송(구글 이메일) 회원관리 회원 가입/탈퇴, 회원정보 보기/수정 회원등급(준/정) 따라 게시판 접근 제한 회원가입시 인증"
 }
     </script>
 
@@ -198,35 +198,32 @@ into the {body} of the default.hbs template -->
 <a href=""><i class="fa fa-youtube-play">유튜브</i></a></p>
 
 <h2 id="주제">주제</h2>
-<p><i class="fa fa-film">
- 영화 리뷰 웹 사이트</i></p>
+<p><i class="fa fa-film"> 영화 리뷰 웹 사이트</i></p>
 
 <h2 id="개발기간">개발기간</h2>
-<p><i class="fa fa-clock-o">
- 2020.08.04~2020.09.05</i></p>
+<p><i class="fa fa-clock-o"> 2020.08.04~2020.09.05</i></p>
 
 <h2 id="개발환경">개발환경</h2>
-<p><i class="fa fa-television">
- HTML5/CSS3, JSes6, jQuery, Bootstrap3</i><br />
-<i class="fa fa-cogs">
- Java8</i><br />
-<i class="fa fa-database">
- MySQL5.6</i><br />
-<i class="fa fa-power-off">
- Windows10, Tomcat8.5, Eclipse3.0</i></p>
+<p><i class="fa fa-television"> HTML5/CSS3, JSes6, jQuery, Bootstrap3</i><br />
+<i class="fa fa-cogs"> Java8</i><br />
+<i class="fa fa-database"> MySQL5.6</i><br />
+<i class="fa fa-power-off"> Windows10, Tomcat8.5, Eclipse3.0</i></p>
 
 <h2 id="기능">기능</h2>
 <p><i class="fa fa-list-alt"><b> 게시판</b></i><br />
 <i class="fa fa-pencil-square-o"> 기본CRUD</i><br />
-<i class="fa fa-filter"> 장르별 필터링, 페이징, 검색</i><br />
-<i class="fa fa-heart"> 게시글 공감(추천), 게시글을 최신순 또는 공감순 정렬</i><br />
+<i class="fa fa-book"> 페이징</i><br />
+<i class="fa fa-filter"> 카테고리별 필터링</i><br />
+<i class="fa fa-search"> 검색</i><br />
+<i class="fa fa-sort"> 게시글 최신순/공감순 정렬</i><br />
+<i class="fa fa-thumbs-o-up"> 게시글 공감(추천)</i><br />
 <i class="fa fa-comment"> 댓글(Disqus) </i><br />
 <i class="fa fa-at"> 관리자에게 신고 메일 발송(구글 이메일)</i></p>
 
 <p><i class="fa fa-user"><b> 회원관리</b></i><br />
-<i class="fa fa-key"> 회원가입, 마이페이지, 회원정보 수정, 회원탈퇴</i><br />
-<i class="fa fa-exclamation-triangle"> 회원등급(준회원/정회원)에 따라 게시판 접근 수준 제한</i><br />
-<i class="fa fa-at"> 회원가입시 정회원 인증을 위한 메일 발송(구글 이메일)</i></p>
+<i class="fa fa-key"> 회원 가입/탈퇴, 회원정보 보기/수정</i><br />
+<i class="fa fa-ban"> 회원등급(준/정) 따라 게시판 접근 제한</i><br />
+<i class="fa fa-at"> 회원가입시 인증 메일 발송(구글 이메일)</i></p>
 
 <p><i class="fa fa-plus"><b> 기타</b></i><br />
 <i class="fa fa-map-marker"> 지도에 회사 위치 표시(카카오맵)</i><br />
@@ -350,7 +347,7 @@ into the {body} of the default.hbs template -->
                                     
                                         
                                         
-                                            <li><a href="/movieapp">React Project</a></li>
+                                            <li><a href="/movie-ing">React Project</a></li>
                                         
                                     
                                   
