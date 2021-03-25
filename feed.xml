@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-22T00:58:59+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>shinyelee의 포트폴리오용 블로그</subtitle><entry><title type="html">test2</title><link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" /><published>2021-03-18T00:00:00+09:00</published><updated>2021-03-18T00:00:00+09:00</updated><id>https://shinyelee.github.io/test2</id><content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="toy" /><summary type="html">test</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2021-03-17T14:00:00+09:00</published><updated>2021-03-17T14:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="study" /><summary type="html">test</summary></entry><entry><title type="html">React Project</title><link href="https://shinyelee.github.io/movie-ing" rel="alternate" type="text/html" title="React Project" /><published>2021-03-16T16:00:00+09:00</published><updated>2021-03-16T16:00:00+09:00</updated><id>https://shinyelee.github.io/movie-ing</id><content type="html" xml:base="https://shinyelee.github.io/movie-ing">&lt;h1 id=&quot;무빙movie-ing&quot;&gt;무빙(Movie-ing)&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2021-03-25T22:37:00+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>shinyelee의 포트폴리오용 블로그</subtitle><entry><title type="html">test2</title><link href="https://shinyelee.github.io/test2" rel="alternate" type="text/html" title="test2" /><published>2021-03-18T00:00:00+09:00</published><updated>2021-03-18T00:00:00+09:00</updated><id>https://shinyelee.github.io/test2</id><content type="html" xml:base="https://shinyelee.github.io/test2">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="toy" /><summary type="html">test</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2021-03-17T14:00:00+09:00</published><updated>2021-03-17T14:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="study" /><summary type="html">test</summary></entry><entry><title type="html">React Project</title><link href="https://shinyelee.github.io/movie-ing" rel="alternate" type="text/html" title="React Project" /><published>2021-03-16T16:00:00+09:00</published><updated>2021-03-16T16:00:00+09:00</updated><id>https://shinyelee.github.io/movie-ing</id><content type="html" xml:base="https://shinyelee.github.io/movie-ing">&lt;h1 id=&quot;무빙movie-ing&quot;&gt;무빙(Movie-ing)&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111905819-ebbeb600-8a90-11eb-898e-0bd880b90c3a.png&quot; alt=&quot;img (1)&quot; /&gt;&lt;/p&gt;
 
@@ -49,10 +49,15 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910956-d5235980-8aa6-11eb-9cd8-8aa7011467b4.PNG&quot; alt=&quot;img (5)&quot; /&gt;&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">무빙(Movie-ing)</summary></entry><entry><title type="html">Spring Project</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="Spring Project" /><published>2021-03-15T21:00:00+09:00</published><updated>2021-03-15T21:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;애잇loveeat&quot;&gt;애잇(Loveeat)&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/built/images/loveeat.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957738-bf0dab80-8b2f-11eb-917e-f7d0ef126fe6.PNG&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957744-c03ed880-8b2f-11eb-9702-643c8a87f910.png&quot; alt=&quot;img (1)&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957746-c0d76f00-8b2f-11eb-83d9-51ace52fb232.PNG&quot; alt=&quot;img (2)&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957750-c1700580-8b2f-11eb-9bfb-595633e64128.PNG&quot; alt=&quot;img (4)&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957751-c2089c00-8b2f-11eb-86d8-13382436d4d6.png&quot; alt=&quot;img (5)&quot; /&gt;
+&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957752-c2089c00-8b2f-11eb-820e-845519839400.PNG&quot; alt=&quot;img (6)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
-&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;데모&lt;/i&gt;&lt;/a&gt; 
+&lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;사이트&lt;/i&gt;&lt;/a&gt; 
 &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
@@ -64,7 +69,7 @@
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt; HTML5/CSS3, JSes6, jQuery, AJAX&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-cogs&quot;&gt; Java8&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-database&quot;&gt; MySQL5.7&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-database&quot;&gt; MySQL5.6&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-power-off&quot;&gt; Windows10, Cafe24, Spring(STS4)&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
@@ -101,9 +106,9 @@
 &lt;i class=&quot;fa fa-credit-card&quot;&gt; 결제(카카오페이)&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-plus&quot;&gt;&lt;b&gt; 기타&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-comments&quot;&gt; 실시간 채팅(웹소켓)&lt;/i&gt;&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">애잇(Loveeat)</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/moviehere" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-14T22:00:00+09:00</published><updated>2021-03-14T22:00:00+09:00</updated><id>https://shinyelee.github.io/moviehere</id><content type="html" xml:base="https://shinyelee.github.io/moviehere">&lt;h1 id=&quot;필름feelm&quot;&gt;필름(Feelm)&lt;/h1&gt;
+&lt;i class=&quot;fa fa-comments&quot;&gt; 실시간 채팅(웹소켓)&lt;/i&gt;&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="project" /><summary type="html">애잇(Loveeat)</summary></entry><entry><title type="html">JSP Model 1 Project</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="JSP Model 1 Project" /><published>2021-03-14T22:00:00+09:00</published><updated>2021-03-14T22:00:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;필름feelm&quot;&gt;필름(Feelm)&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/built/images/moviehere.png&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/feelm.jpg&quot; width=&quot;960&quot; height=&quot;520&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
 &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
