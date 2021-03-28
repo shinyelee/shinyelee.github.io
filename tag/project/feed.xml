@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/project/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-26T00:37:25+09:00</updated>
+  <updated>2021-03-28T15:25:40+09:00</updated>
   <id>https://shinyelee.github.io/tag/project/feed.xml</id>
 
   
@@ -39,19 +39,14 @@
       <id>https://shinyelee.github.io/movie-ing</id>
       <content type="html" xml:base="https://shinyelee.github.io/movie-ing">&lt;h1 id=&quot;무빙movie-ing&quot;&gt;무빙(Movie-ing)&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111905819-ebbeb600-8a90-11eb-898e-0bd880b90c3a.png&quot; alt=&quot;img (1)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910463-ce93e280-8aa4-11eb-8f1d-eacc3a68fb5d.PNG&quot; alt=&quot;img (2)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910359-68a75b00-8aa4-11eb-9f9a-44b3df9cfcfe.PNG&quot; alt=&quot;img (3)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910651-9fca3c00-8aa5-11eb-9910-a3dace7d3c8b.png&quot; alt=&quot;img (4)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910888-870e5600-8aa6-11eb-9b8e-5979291b1fa6.png&quot; alt=&quot;img (6)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111910956-d5235980-8aa6-11eb-9cd8-8aa7011467b4.PNG&quot; alt=&quot;img (5)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111905819-ebbeb600-8a90-11eb-898e-0bd880b90c3a.png&quot; alt=&quot;img (1)&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/movie-app&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt;
 &lt;a href=&quot;https://shinye0213.tistory.com/category/PROJECT/Node.js%20React&quot;&gt;&lt;i class=&quot;fa fa-rss&quot;&gt;블로그&lt;/i&gt;&lt;/a&gt;
 &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
-&lt;p&gt;&lt;i class=&quot;fa fa-video-camera&quot;&gt; 최신영화정보 사이트&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-video-camera&quot;&gt; 최신영화정보 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt; 2021.02.16~2021.03.11&lt;/i&gt;&lt;/p&gt;
@@ -117,12 +112,7 @@
       <id>https://shinyelee.github.io/loveeat</id>
       <content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;애잇loveeat&quot;&gt;애잇(Loveeat)&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112497370-e501ad00-8dc8-11eb-9297-d7205cb6e086.PNG&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957744-c03ed880-8b2f-11eb-9702-643c8a87f910.png&quot; alt=&quot;img (1)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957746-c0d76f00-8b2f-11eb-83d9-51ace52fb232.PNG&quot; alt=&quot;img (2)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957750-c1700580-8b2f-11eb-9bfb-595633e64128.PNG&quot; alt=&quot;img (4)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957751-c2089c00-8b2f-11eb-86d8-13382436d4d6.png&quot; alt=&quot;img (5)&quot; /&gt;
-&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111957752-c2089c00-8b2f-11eb-820e-845519839400.PNG&quot; alt=&quot;img (6)&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112497370-e501ad00-8dc8-11eb-9297-d7205cb6e086.PNG&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
 &lt;a href=&quot;http://rustywhite404.cafe24.com/&quot;&gt;&lt;i class=&quot;fa fa-home&quot;&gt;사이트&lt;/i&gt;&lt;/a&gt; 
@@ -135,7 +125,7 @@
 &lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt; 2020.10.20~2020.11.17 (총 개발인원: 8)&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
-&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt; HTML5/CSS3, JSes6, jQuery, AJAX&lt;/i&gt;&lt;br /&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt; HTML5/CSS3, JavaScript, jQuery, AJAX&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-cogs&quot;&gt; Java8&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-database&quot;&gt; MySQL5.6&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-power-off&quot;&gt; Windows10, Cafe24, Spring(STS4)&lt;/i&gt;&lt;/p&gt;
@@ -212,7 +202,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112497719-3611a100-8dc9-11eb-8980-297a0be06e13.PNG&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/feelm&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
+&lt;p&gt;&lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;&lt;i class=&quot;fa fa-github&quot;&gt;깃허브&lt;/i&gt;&lt;/a&gt; 
 &lt;a href=&quot;&quot;&gt;&lt;i class=&quot;fa fa-youtube-play&quot;&gt;유튜브&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
@@ -222,10 +212,10 @@
 &lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt; 2020.08.04~2020.09.05&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
-&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt; HTML5/CSS3, JSes6, jQuery, Bootstrap3&lt;/i&gt;&lt;br /&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-television&quot;&gt; HTML5/CSS3, JavaScript, jQuery3.5, Bootstrap3&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-cogs&quot;&gt; Java8&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-database&quot;&gt; MySQL5.6&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-power-off&quot;&gt; Windows10, Tomcat8.5, Eclipse3.0&lt;/i&gt;&lt;/p&gt;
+&lt;i class=&quot;fa fa-power-off&quot;&gt; Windows10, Tomcat8.5, Eclipse neon3.0&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;기능&quot;&gt;기능&lt;/h2&gt;
 &lt;p&gt;&lt;i class=&quot;fa fa-list-alt&quot;&gt;&lt;b&gt; 게시판&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
