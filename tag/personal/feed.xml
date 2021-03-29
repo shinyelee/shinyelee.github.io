@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://shinyelee.github.io/tag/study/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://shinyelee.github.io/tag/personal/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
   <updated>2021-03-29T14:56:58+09:00</updated>
-  <id>https://shinyelee.github.io/tag/study/feed.xml</id>
+  <id>https://shinyelee.github.io/tag/personal/feed.xml</id>
 
   
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">study</title>
-      <link href="https://shinyelee.github.io/study" rel="alternate" type="text/html" title="study" />
-      <published>2021-03-17T14:00:00+09:00</published>
-      <updated>2021-03-17T14:00:00+09:00</updated>
-      <id>https://shinyelee.github.io/study</id>
-      <content type="html" xml:base="https://shinyelee.github.io/study">&lt;p&gt;test&lt;/p&gt;</content>
+      <title type="html">필름(Feelm)</title>
+      <link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름(Feelm)" />
+      <published>2021-03-29T14:00:00+09:00</published>
+      <updated>2021-03-29T14:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/feelm</id>
+      <content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;p&gt;test&lt;/p&gt;</content>
 
       
       
@@ -54,7 +54,7 @@
       
 
       
-        <category term="study" />
+        <category term="personal" />
       
 
       
