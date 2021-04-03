@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>shinyelee의 포트폴리오용 블로그</description>
+    <description>프로젝트 정리 겸 포트폴리오용</description>
     <link>
     https://shinyelee.github.io</link>
     
@@ -10,10 +10,11 @@
       <item>
         <title>필름(Feelm)</title>
         
-          <description>&lt;p&gt;test&lt;/p&gt;
+          <description>&lt;h1 id=&quot;필름feelm&quot;&gt;필름(Feelm)&lt;/h1&gt;
+
 </description>
         
-        <pubDate>Mon, 29 Mar 2021 14:00:00 +0900</pubDate>
+        <pubDate>Sat, 03 Apr 2021 23:00:00 +0900</pubDate>
         <link>
         https://shinyelee.github.io/feelm</link>
         <guid isPermaLink="true">https://shinyelee.github.io/feelm</guid>

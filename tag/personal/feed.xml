@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/personal/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-03-29T14:56:58+09:00</updated>
+  <updated>2021-04-03T23:58:29+09:00</updated>
   <id>https://shinyelee.github.io/tag/personal/feed.xml</id>
 
   
@@ -16,7 +16,7 @@
   
 
   
-    <subtitle>shinyelee의 포트폴리오용 블로그</subtitle>
+    <subtitle>프로젝트 정리 겸 포트폴리오용</subtitle>
   
 
   
@@ -34,10 +34,24 @@
     <entry>
       <title type="html">필름(Feelm)</title>
       <link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름(Feelm)" />
-      <published>2021-03-29T14:00:00+09:00</published>
-      <updated>2021-03-29T14:00:00+09:00</updated>
+      <published>2021-04-03T23:00:00+09:00</published>
+      <updated>2021-04-03T23:00:00+09:00</updated>
       <id>https://shinyelee.github.io/feelm</id>
-      <content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;p&gt;test&lt;/p&gt;</content>
+      <content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;필름feelm&quot;&gt;필름(Feelm)&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112497719-3611a100-8dc9-11eb-8980-297a0be06e13.PNG&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;주제&quot;&gt;주제&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-film&quot;&gt; 영화 리뷰 웹 사이트&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;개발기간&quot;&gt;개발기간&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-clock-o&quot;&gt; 2020.08.04~2020.09.05&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;개발환경&quot;&gt;개발환경&lt;/h2&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-cogs&quot;&gt; HTML/CSS, JavaScript, jQuery3.5, Bootstrap3, Java8, MySQL5.6, Windows10, Tomcat8.5, Eclipse neon3.0&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;시연영상&quot;&gt;시연영상&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/1lwFTOMNNcI&quot;&gt;&lt;i class=&quot;fa fa-key&quot;&gt;메인페이지, 로그인, 로그아웃&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</content>
 
       
       
@@ -58,7 +72,7 @@
       
 
       
-        <summary type="html">test</summary>
+        <summary type="html">필름(Feelm)</summary>
       
 
       
