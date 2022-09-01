@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://shinyelee.github.io/tag/android/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-09-01T23:20:43+09:00</updated>
+  <id>https://shinyelee.github.io/tag/android/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">shinyelee.github.io | </title>
+  
+
+  
+    <subtitle>프로젝트 정리 겸 포트폴리오용</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">develography</title>
+      <link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="develography" />
+      <published>2022-09-01T23:00:00+09:00</published>
+      <updated>2022-09-01T23:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/develography</id>
+      <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;p&gt;test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="android" />
+      
+
+      
+        <summary type="html">test</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

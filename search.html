@@ -124,18 +124,42 @@ into the {body} of the default.hbs template -->
         
         
             <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="/">home</a></li>
-    <li class="nav-about" role="menuitem"><a href="/about/">about</a></li>
-    <li class="nav-personal" role="menuitem"><a href="/tag/personal/">personal</a></li>
-    <li class="nav-study" role="menuitem"><a href="/tag/study/">study</a></li>
-    <li class="nav-team" role="menuitem"><a href="/tag/team/">team</a></li>
-    <li class="nav-archive" role="menuitem">
-        <a href="/archive.html">All Posts</a>
-    </li>
-    <li class="nav-archive" role="menuitem">
-        <a href="/author_archive.html">Tag별 Posts</a>
-    </li>
+  <!-- 홈 -->
+  <li class="nav-home" role="menuitem">
+    <a href="/">home</a>
+  </li>
+
+  <!-- 이력서 -->
+  <li class="nav-about" role="menuitem">
+    <a href="/about/">about</a>
+  </li>
+
+  <!-- 안드로이드 프로젝트 -->
+  <li class="nav-android" role="menuitem">
+    <a href="/tag/android/">android</a>
+  </li>
+
+  <!-- 웹 프로젝트 -->
+  <li class="nav-web" role="menuitem">
+    <a href="/tag/web/">web</a>
+  </li>
+
+  <!-- 기타 프로젝트 -->
+  <li class="nav-etc" role="menuitem">
+    <a href="/tag/etc/">etc</a>
+  </li>
+
+  <!-- 모든 프로젝트 -->
+  <li class="nav-archive" role="menuitem">
+    <a href="/archive.html">All Posts</a>
+  </li>
+
+  <!-- 태그별 프로젝트 -->
+  <li class="nav-archive" role="menuitem">
+    <a href="/author_archive.html">Tag별 Posts</a>
+  </li>
 </ul>
+
         
     </div>
     <div class="site-nav-right">
@@ -178,29 +202,29 @@ into the {body} of the default.hbs template -->
     window.store = {
     
     "feelm": {
-        "title": "JSP MODEL 1 PROJECT - 필름(Feelm)",
+        "title": "feelm",
             "author": "shinyelee",
             "category": "",
-            "content": "주제 영화 리뷰 웹 사이트기간 2020.08.04~2020.09.05설명깃허브 바로가기시연 로그인, 로그아웃 회원가입, 메일인증 회원정보, 회원탈퇴 영화리뷰, 리뷰신고",
+            "content": "test",
         "url": "/feelm"
     }
     ,
     
-    "team": {
-        "title": "team",
+    "test": {
+        "title": "test",
             "author": "shinyelee",
             "category": "",
             "content": "test",
-        "url": "/team"
+        "url": "/test"
     }
     ,
     
-    "study": {
-        "title": "study",
+    "develography": {
+        "title": "develography",
             "author": "shinyelee",
             "category": "",
             "content": "test",
-        "url": "/study"
+        "url": "/develography"
     }
     
     
@@ -233,7 +257,7 @@ $(function() {
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="https://shinyelee.github.io/">shinyelee.github.io</a> &copy; 2021</section>
+                <section class="copyright"><a href="https://shinyelee.github.io/">shinyelee.github.io</a> &copy; 2022</section>
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>

@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="https://shinyelee.github.io/tag/team/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://shinyelee.github.io/tag/etc/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-04-04T23:42:24+09:00</updated>
-  <id>https://shinyelee.github.io/tag/team/feed.xml</id>
+  <updated>2022-09-01T23:20:43+09:00</updated>
+  <id>https://shinyelee.github.io/tag/etc/feed.xml</id>
 
   
   
@@ -32,12 +32,12 @@
 
   
     <entry>
-      <title type="html">team</title>
-      <link href="https://shinyelee.github.io/team" rel="alternate" type="text/html" title="team" />
-      <published>2021-03-18T00:00:00+09:00</published>
-      <updated>2021-03-18T00:00:00+09:00</updated>
-      <id>https://shinyelee.github.io/team</id>
-      <content type="html" xml:base="https://shinyelee.github.io/team">&lt;p&gt;test&lt;/p&gt;</content>
+      <title type="html">test</title>
+      <link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" />
+      <published>2022-09-01T23:00:00+09:00</published>
+      <updated>2022-09-01T23:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/test</id>
+      <content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content>
 
       
       
@@ -54,7 +54,7 @@
       
 
       
-        <category term="team" />
+        <category term="etc" />
       
 
       
