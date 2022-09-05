@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/android/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-01T23:20:43+09:00</updated>
+  <updated>2022-09-05T23:05:16+09:00</updated>
   <id>https://shinyelee.github.io/tag/android/feed.xml</id>
 
   
@@ -32,12 +32,37 @@
 
   
     <entry>
-      <title type="html">develography</title>
-      <link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="develography" />
+      <title type="html">신예리의 개발전기</title>
+      <link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" />
       <published>2022-09-01T23:00:00+09:00</published>
       <updated>2022-09-01T23:00:00+09:00</updated>
       <id>https://shinyelee.github.io/develography</id>
-      <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;p&gt;test&lt;/p&gt;</content>
+      <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;develography&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;앱에 대해 짧은 설명&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;긴 설명&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/android.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;기능 하나&lt;/li&gt;
+  &lt;li&gt;기능 둘&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이것은 어떠한 프로젝트 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt;를 참고하세요.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content>
 
       
       
@@ -58,7 +83,7 @@
       
 
       
-        <summary type="html">test</summary>
+        <summary type="html">develography</summary>
       
 
       

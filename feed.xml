@@ -1,1 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-01T23:20:43+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">feelm</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="feelm" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">test</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">test</summary></entry><entry><title type="html">develography</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="develography" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">test</summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-05T23:05:16+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">feelm</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="feelm" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm필름&quot;&gt;feelm(필름)&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;게시판 웹&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;긴 설명(한 두 문단)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/android.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;설치-방법&quot;&gt;설치 방법&lt;/h2&gt;
+
+&lt;p&gt;OS X &amp;amp; 리눅스:&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install my-crazy-module &lt;span class=&quot;nt&quot;&gt;--save&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;윈도우:&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;edit autoexec.bat
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;사용-예제&quot;&gt;사용 예제&lt;/h2&gt;
+
+&lt;p&gt;스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;더 많은 예제와 사용법은 &lt;a href=&quot;https://github.com/yourname/yourproject/wiki&quot;&gt;Wiki&lt;/a&gt;를 참고하세요.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;개발-환경-설정&quot;&gt;개발 환경 설정&lt;/h2&gt;
+
+&lt;p&gt;모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-sh highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;make install
+npm &lt;span class=&quot;nb&quot;&gt;test&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;업데이트-내역&quot;&gt;업데이트 내역&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;0.2.1
+    &lt;ul&gt;
+      &lt;li&gt;수정: 문서 업데이트 (모듈 코드 동일)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;0.2.0
+    &lt;ul&gt;
+      &lt;li&gt;수정: &lt;code class=&quot;highlighter-rouge&quot;&gt;setDefaultXYZ()&lt;/code&gt; 메서드 제거&lt;/li&gt;
+      &lt;li&gt;추가: &lt;code class=&quot;highlighter-rouge&quot;&gt;init()&lt;/code&gt; 메서드 추가&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;0.1.1
+    &lt;ul&gt;
+      &lt;li&gt;버그 수정: &lt;code class=&quot;highlighter-rouge&quot;&gt;baz()&lt;/code&gt; 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;0.1.0
+    &lt;ul&gt;
+      &lt;li&gt;첫 출시&lt;/li&gt;
+      &lt;li&gt;수정: &lt;code class=&quot;highlighter-rouge&quot;&gt;foo()&lt;/code&gt; 메서드 네이밍을 &lt;code class=&quot;highlighter-rouge&quot;&gt;bar()&lt;/code&gt;로 수정&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;0.0.1
+    &lt;ul&gt;
+      &lt;li&gt;작업 진행 중&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;정보&quot;&gt;정보&lt;/h2&gt;
+
+&lt;p&gt;이름 – &lt;a href=&quot;https://twitter.com/dbader_org&quot;&gt;@트위터 주소&lt;/a&gt; – 이메일주소@example.com&lt;/p&gt;
+
+&lt;p&gt;XYZ 라이센스를 준수하며 &lt;code class=&quot;highlighter-rouge&quot;&gt;LICENSE&lt;/code&gt;에서 자세한 정보를 확인할 수 있습니다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/dbader/&quot;&gt;https://github.com/yourname/github-link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;기여-방법&quot;&gt;기여 방법&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;(&lt;a href=&quot;https://github.com/yourname/yourproject/fork&quot;&gt;https://github.com/yourname/yourproject/fork&lt;/a&gt;)을 포크합니다.&lt;/li&gt;
+  &lt;li&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;git checkout -b feature/fooBar&lt;/code&gt;) 명령어로 새 브랜치를 만드세요.&lt;/li&gt;
+  &lt;li&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -am 'Add some fooBar'&lt;/code&gt;) 명령어로 커밋하세요.&lt;/li&gt;
+  &lt;li&gt;(&lt;code class=&quot;highlighter-rouge&quot;&gt;git push origin feature/fooBar&lt;/code&gt;) 명령어로 브랜치에 푸시하세요.&lt;/li&gt;
+  &lt;li&gt;풀리퀘스트를 보내주세요.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">feelm(필름)</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">test</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;develography&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;앱에 대해 짧은 설명&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;긴 설명&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/android.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;기능 하나&lt;/li&gt;
+  &lt;li&gt;기능 둘&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;이것은 어떠한 프로젝트 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt;를 참고하세요.&lt;/em&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">develography</summary></entry></feed>

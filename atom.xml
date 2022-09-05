@@ -10,7 +10,8 @@
       <item>
         <title>feelm</title>
         
-          <description>&lt;p&gt;test&lt;/p&gt;
+          <description>&lt;h1 id=&quot;feelm필름&quot;&gt;feelm(필름)&lt;/h1&gt;
+
 </description>
         
         <pubDate>Thu, 01 Sep 2022 23:00:00 +0900</pubDate>
@@ -36,9 +37,10 @@
     
       
       <item>
-        <title>develography</title>
+        <title>신예리의 개발전기</title>
         
-          <description>&lt;p&gt;test&lt;/p&gt;
+          <description>&lt;h1 id=&quot;develography&quot;&gt;develography&lt;/h1&gt;
+
 </description>
         
         <pubDate>Thu, 01 Sep 2022 23:00:00 +0900</pubDate>
