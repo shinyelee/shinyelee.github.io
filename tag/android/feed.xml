@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/android/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-06T22:47:08+09:00</updated>
+  <updated>2022-09-07T00:11:32+09:00</updated>
   <id>https://shinyelee.github.io/tag/android/feed.xml</id>
 
   
@@ -48,16 +48,16 @@
 &lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/로그아웃&lt;/i&gt;&lt;/p&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 로그아웃&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;푸시메시지&quot;&gt;푸시메시지&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 매칭알람&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쪽지 보내기/받기&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 매칭 알람&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쪽지 보내기, 쪽지 받기&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;좋아요&quot;&gt;좋아요&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 좋아요 추가/삭제&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 좋아요 추가, 좋아요 삭제&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 
@@ -106,21 +106,21 @@
 &lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/비회원로그인/로그아웃&lt;/i&gt;&lt;/p&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 비회원 로그인, 로그아웃&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;웹뷰&quot;&gt;웹뷰&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 웹뷰/썸네일&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 웹뷰, 썸네일&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;게시판&quot;&gt;게시판&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 글 작성/수정/삭제&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성/수정/삭제&lt;/i&gt;&lt;br /&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 글 작성, 글 수정, 글 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성, 댓글 수정, 댓글 삭제&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글에 이미지 첨부&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;북마크&quot;&gt;북마크&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 북마크 추가/삭제&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 북마크 추가, 북마크 삭제&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 
