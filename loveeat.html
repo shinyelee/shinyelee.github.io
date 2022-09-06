@@ -86,7 +86,7 @@
     <meta property="og:title" content="러빗" />
     <meta property="og:description" content="Loveeat 요리 커뮤니티 겸 밀키트 판매 웹 사이트 주요 기능 인증 회원가입, 회원탈퇴 로그인, SNS 로그인, 로그아웃 비밀번호 암호화 아이디 및 비밀번호 찾기(이메일 인증) 회원정보 수정 관리자 계정 게시판 관리 회원정보 관리 쇼핑몰 관리 카테고리 검색 태그 및 필터링 검색 기능 게시판 글 작성, 글 수정, 글 삭제 댓글 작성," />
     <meta property="og:url" content="https://shinyelee.github.io/loveeat" />
-    <meta property="og:image" content="https://shinyelee.github.io/assets/built/images/web.jpg" />
+    <meta property="og:image" content="https://shinyelee.github.io/assets/built/images/jsp.png" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta property="article:author" content="https://www.facebook.com/" />
     <meta property="article:published_time" content="2022-09-07T00:00:00+09:00" />
@@ -96,7 +96,7 @@
     <meta name="twitter:title" content="러빗" />
     <meta name="twitter:description" content="Loveeat 요리 커뮤니티 겸 밀키트 판매 웹 사이트 주요 기능 인증 회원가입, 회원탈퇴 로그인, SNS 로그인, 로그아웃 비밀번호 암호화 아이디 및 비밀번호 찾기(이메일 인증) 회원정보 수정 관리자 계정 게시판 관리 회원정보 관리 쇼핑몰 관리 카테고리 검색 태그 및 필터링 검색 기능 게시판 글 작성, 글 수정, 글 삭제 댓글 작성," />
     <meta name="twitter:url" content="https://shinyelee.github.io/" />
-    <meta name="twitter:image" content="https://shinyelee.github.io/assets/built/images/web.jpg" />
+    <meta name="twitter:image" content="https://shinyelee.github.io/assets/built/images/jsp.png" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="shinyelee.github.io" />
     <meta name="twitter:label2" content="Filed under" />
@@ -118,7 +118,7 @@
     "url": "https://shinyelee.github.io/loveeat",
     "image": {
         "@type": "ImageObject",
-        "url": "https://shinyelee.github.io/assets/built/images/web.jpg",
+        "url": "https://shinyelee.github.io/assets/built/images/jsp.png",
         "width": 2000,
         "height": 666
     },
@@ -240,7 +240,7 @@ into the {body} of the default.hbs template -->
 
             <!-- 게시글 클릭했을 때 헤더 밑에 보이는 이미지 -->
             
-            <figure class="post-full-image" style="background-image: url(/assets/built/images/web.jpg)">
+            <figure class="post-full-image" style="background-image: url(/assets/built/images/jsp.png)">
             </figure>
             
 
@@ -405,19 +405,19 @@ into the {body} of the default.hbs template -->
                                 
                                   
                                     
-                                  
-                                
-                                  
-                                
+                                        
+                                        
+                                            <li><a href="/feelm">필름</a></li>
+                                        
+                                    
                                   
                                 
                                   
                                     
-                                        
-                                        
-                                            <li><a href="/feelm">feelm</a></li>
-                                        
-                                    
+                                  
+                                
+                                  
+                                
                                   
                                 
                                   
@@ -436,6 +436,55 @@ into the {body} of the default.hbs template -->
             
 
             <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/feelm">
+                <div class="post-card-image" style="background-image: url(/assets/built/images/jsp.png)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/feelm">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Web</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">필름</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p></p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/assets/built/images/author-logo.png" alt="shinyelee" />
+                        
+                        <span class="post-card-author">
+                            <a href="/author/shinyelee/">shinyelee</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
             
 
             <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->

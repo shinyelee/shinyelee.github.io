@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-07T00:11:32+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">러빗</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="러빗" /><published>2022-09-07T00:00:00+09:00</published><updated>2022-09-07T00:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-07T00:41:43+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">필름</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름" /><published>2022-09-07T00:30:00+09:00</published><updated>2022-09-07T00:30:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm&quot;&gt;Feelm&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화 커뮤니티 웹 사이트&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/feelm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;시연-영상&quot;&gt;시연 영상&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://youtu.be/LD7oE93kO_s&quot;&gt;메인페이지, 로그인, 로그아웃&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=eB0ALhptLC8&quot;&gt;회원가입, 이메일 인증&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=Kq-JueTqzu0&quot;&gt;회원정보 수정, 회원탈퇴&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=5qdetW070NM&quot;&gt;영화 리뷰, 리뷰 신고&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
+
+&lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입(이메일 인증), 회원탈퇴&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 로그아웃&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원정보 수정&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;관리자-계정&quot;&gt;관리자 계정&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시판 관리&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원정보 관리&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쇼핑몰 관리&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;카테고리-검색&quot;&gt;카테고리 검색&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 필터링 및 정렬&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 검색 기능&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;게시판&quot;&gt;게시판&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 글 작성, 글 수정, 글 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글에 공감(추천) 기능&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;기타-api&quot;&gt;기타 API&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글 신고(관리자 이메일)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성, 댓글 수정, 댓글 삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 지도 및 우편번호&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">Feelm</summary></entry><entry><title type="html">러빗</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="러빗" /><published>2022-09-07T00:00:00+09:00</published><updated>2022-09-07T00:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 요리 커뮤니티 겸 밀키트 판매 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
@@ -95,12 +140,4 @@
 
 &lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry><entry><title type="html">feelm</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="feelm" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm필름&quot;&gt;feelm(필름)&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;게시판 웹&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;긴 설명(한 두 문단)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/android.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">feelm(필름)</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">test</summary></entry></feed>
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry><entry><title type="html">test</title><link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" /><published>2022-09-01T23:00:00+09:00</published><updated>2022-09-01T23:00:00+09:00</updated><id>https://shinyelee.github.io/test</id><content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">test</summary></entry></feed>
