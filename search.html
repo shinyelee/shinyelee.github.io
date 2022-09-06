@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-
+  <head>
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -11,36 +10,70 @@
 
 
 
-    <title>Search Result</title>
+    <title>
+      Search Result
+    </title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- Styles'n'Scripts -->
-    <link rel="stylesheet" type="text/css" href="/assets/built/screen.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/built/screen.edited.css" />
-    <link rel="stylesheet" type="text/css" href="/assets/built/syntax.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/screen.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/screen.edited.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/syntax.css"
+    />
     <!--custom.css-->
-    <link rel="stylesheet" type="text/css" href="/assets/built/custom.css" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="/assets/built/custom.css"
+    />
     <!--Font Awesome-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- 웹 폰트 설정 -->
-    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <!--web font-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300&display=swap"
+      rel="stylesheet"
+    />
     <!-- syntax.css -->
-    <link rel="stylesheet" href="/assets/built/syntax.css">
+    <link rel="stylesheet" href="/assets/built/syntax.css" />
     <!-- highlight.js -->
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
-    <style>.hljs { background: none; }</style>
+    <link
+      rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"
+    />
+    <style>
+      .hljs {
+        background: none;
+      }
+    </style>
 
     <!--[if IE]>
-        <style>
-            p, ol, ul{
-                width: 100%;
-            }
-            blockquote{
-                width: 100%;
-            }
-        </style>
+      <style>
+        p,
+        ol,
+        ul {
+          width: 100%;
+        }
+        blockquote {
+          width: 100%;
+        }
+      </style>
     <![endif]-->
-    
+
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="프로젝트 정리 겸 포트폴리오용" />
     <link rel="shortcut icon" href="https://shinyelee.github.io/assets/built/images/favicon.png" type="image/png" />
@@ -102,13 +135,13 @@
     <meta name="generator" content="Jekyll 3.6.2" />
     <link rel="alternate" type="application/rss+xml" title="Search Result" href="/feed.xml" />
 
-
-</head>
-<body class="page-template">
-
+  </head>
+  <body
+    class="page-template"
+  >
     <div class="site-wrapper">
-        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
-        <!-- < default -->
+      <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+      <!-- < default -->
 <!-- The tag above means: insert everything in this file
 into the {body} of the default.hbs template -->
 
@@ -201,11 +234,20 @@ into the {body} of the default.hbs template -->
 <script>
     window.store = {
     
+    "develography": {
+        "title": "신예리의 개발전기",
+            "author": "shinyelee",
+            "category": "",
+            "content": "Develography 기존에 운영중인 블로그를 활용한 커뮤니티 앱주요 기능인증 회원가입 로그인/비회원로그인 로그아웃웹뷰 웹뷰/썸네일게시판 글 작성/수정/삭제 댓글 작성/수정/삭제 게시글에 이미지 첨부북마크 북마크 추가/삭제 자세한 내용은 깃허브 참고",
+        "url": "/develography"
+    }
+    ,
+    
     "feelm": {
         "title": "feelm",
             "author": "shinyelee",
             "category": "",
-            "content": "feelm(필름)  게시판 웹긴 설명(한 두 문단)설치 방법OS X &amp; 리눅스:npm install my-crazy-module --save윈도우:edit autoexec.bat사용 예제스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.더 많은 예제와 사용법은 Wiki를 참고하세요.개발 환경 설정모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.make installnpm test업데이트 내역  0.2.1          수정: 문서 업데이트 (모듈 코드 동일)        0.2.0          수정: setDefaultXYZ() 메서드 제거      추가: init() 메서드 추가        0.1.1          버그 수정: baz() 메서드 호출 시 부팅되지 않는 현상 (@컨트리뷰터 감사합니다!)        0.1.0          첫 출시      수정: foo() 메서드 네이밍을 bar()로 수정        0.0.1          작업 진행 중      정보이름 – @트위터 주소 – 이메일주소@example.comXYZ 라이센스를 준수하며 LICENSE에서 자세한 정보를 확인할 수 있습니다.https://github.com/yourname/github-link기여 방법  (https://github.com/yourname/yourproject/fork)을 포크합니다.  (git checkout -b feature/fooBar) 명령어로 새 브랜치를 만드세요.  (git commit -am 'Add some fooBar') 명령어로 커밋하세요.  (git push origin feature/fooBar) 명령어로 브랜치에 푸시하세요.  풀리퀘스트를 보내주세요.",
+            "content": "feelm(필름)  게시판 웹긴 설명(한 두 문단)",
         "url": "/feelm"
     }
     ,
@@ -216,15 +258,6 @@ into the {body} of the default.hbs template -->
             "category": "",
             "content": "test",
         "url": "/test"
-    }
-    ,
-    
-    "develography": {
-        "title": "신예리의 개발전기",
-            "author": "shinyelee",
-            "category": "",
-            "content": "develography  앱에 대해 짧은 설명긴 설명주요 기능  기능 하나  기능 둘  이것은 어떠한 프로젝트 입니다.자세한 내용은 깃허브를 참고하세요.",
-        "url": "/develography"
     }
     
     
@@ -251,37 +284,47 @@ $(function() {
 
 
 
-        <!-- Previous/next page links - displayed on every page -->
-        
+      <!-- Previous/next page links - displayed on every page -->
+      
 
-        <!-- The footer at the very bottom of the screen -->
-        <footer class="site-footer outer">
-            <div class="site-footer-content inner">
-                <section class="copyright"><a href="https://shinyelee.github.io/">shinyelee.github.io</a> &copy; 2022</section>
-                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
-                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
-                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
-                <nav class="site-footer-nav">
-                    <a href="/">Latest Posts</a>
-                    
-                    
-                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
-                </nav>
-            </div>
-        </footer>
-
+      <!-- The footer at the very bottom of the screen -->
+      <footer class="site-footer outer">
+        <div class="site-footer-content inner">
+          <section class="copyright">
+            <a href="https://shinyelee.github.io/">shinyelee.github.io</a>
+            &copy; 2022
+          </section>
+          <section class="poweredby">
+            Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+            <a href="https://pages.github.com/" target="_blank" rel="noopener"
+              >GitHub Pages</a
+            >
+            using
+            <a
+              href="https://github.com/jekyller/jasper2"
+              target="_blank"
+              rel="noopener"
+              >Jasper2</a
+            >
+          </section>
+          <nav class="site-footer-nav">
+            <a href="/">Latest Posts</a>
+             
+            <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+          </nav>
+        </div>
+      </footer>
     </div>
 
     <!-- The big email subscribe modal content -->
     
-        <div id="subscribe" class="subscribe-overlay">
-            <a class="subscribe-overlay-close" href="#"></a>
-            <div class="subscribe-overlay-content">
-                
-                <h1 class="subscribe-overlay-title">Search shinyelee.github.io</h1>
-                <p class="subscribe-overlay-description">
-                lunr.js를 이용한 posts 검색 </p>
-                <span id="searchform" method="post" action="/subscribe/" class="">
+    <div id="subscribe" class="subscribe-overlay">
+      <a class="subscribe-overlay-close" href="#"></a>
+      <div class="subscribe-overlay-content">
+        
+        <h1 class="subscribe-overlay-title">Search shinyelee.github.io</h1>
+        <p class="subscribe-overlay-description">lunr.js를 이용한 posts 검색</p>
+        <span id="searchform" method="post" action="/subscribe/" class="">
     <input class="confirm" type="hidden" name="confirm"  />
     <input class="location" type="hidden" name="location"  />
     <input class="referrer" type="hidden" name="referrer"  />
@@ -300,27 +343,34 @@ $(function() {
         }
     </script>
 </span>
-            </div>
-        </div>
+      </div>
+    </div>
     
 
     <!-- highlight.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
-    <script>$(document).ready(function() {
-      $('pre code').each(function(i, block) {
-        hljs.highlightBlock(block);
+    <script>
+      $(document).ready(function () {
+        $("pre code").each(function (i, block) {
+          hljs.highlightBlock(block);
+        });
       });
-    });</script>
+    </script>
 
     <!-- jQuery + Fitvids, which makes all video embeds responsive -->
     <script
-        src="https://code.jquery.com/jquery-3.2.1.min.js"
-        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-        crossorigin="anonymous">
-    </script>
-    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
-    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
-
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="text/javascript"
+      src="/assets/js/jquery.fitvids.js"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"
+    ></script>
 
     <!-- Paginator increased to "infinit" in _config.yml -->
     <!-- if paginator.posts  -->
@@ -331,7 +381,6 @@ $(function() {
     <!-- /endif -->
 
     
-
 
     <!-- Add Google Analytics  -->
     <!-- Google Analytics Tracking code -->
@@ -348,18 +397,15 @@ $(function() {
 
 
     <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
-    
-        <script>
+     <script>
 $(function() {
     var $postContent = $(".post-full-content");
     $postContent.fitVids();
 });
 </script>
-
-    
+ 
 
     <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
     <!-- ghost_foot -->
-
-</body>
+  </body>
 </html>

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/android/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-05T23:05:16+09:00</updated>
+  <updated>2022-09-06T14:55:51+09:00</updated>
   <id>https://shinyelee.github.io/tag/android/feed.xml</id>
 
   
@@ -34,33 +34,38 @@
     <entry>
       <title type="html">신예리의 개발전기</title>
       <link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" />
-      <published>2022-09-01T23:00:00+09:00</published>
-      <updated>2022-09-01T23:00:00+09:00</updated>
+      <published>2022-09-05T23:00:00+09:00</published>
+      <updated>2022-09-05T23:00:00+09:00</updated>
       <id>https://shinyelee.github.io/develography</id>
-      <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;develography&lt;/h1&gt;
+      <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;앱에 대해 짧은 설명&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 기존에 운영중인 블로그를 활용한 커뮤니티 앱&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;긴 설명&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/android.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/develography/develography0.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;기능 하나&lt;/li&gt;
-  &lt;li&gt;기능 둘&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;이것은 어떠한 프로젝트 입니다.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/비회원로그인&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그아웃&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt;를 참고하세요.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;웹뷰&quot;&gt;웹뷰&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 웹뷰/썸네일&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;게시판&quot;&gt;게시판&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 글 작성/수정/삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성/수정/삭제&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글에 이미지 첨부&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;북마크&quot;&gt;북마크&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 북마크 추가/삭제&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;!-- Markdown link &amp; img dfn's --&gt;</content>
 
@@ -83,7 +88,7 @@
       
 
       
-        <summary type="html">develography</summary>
+        <summary type="html">Develography</summary>
       
 
       
