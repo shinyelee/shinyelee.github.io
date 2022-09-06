@@ -1,16 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-06T14:55:51+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-05T23:00:00+09:00</published><updated>2022-09-05T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-06T22:47:08+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">데이트데이</title><link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트데이" /><published>2022-09-06T22:00:00+09:00</published><updated>2022-09-06T22:00:00+09:00</updated><id>https://shinyelee.github.io/dateday</id><content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;dateday&quot;&gt;Dateday&lt;/h1&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 기존에 운영중인 블로그를 활용한 커뮤니티 앱&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 서로 좋아요 한 사용자끼리 매칭해주는 데이팅 앱&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/develography/develography0.PNG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/dateday.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
 
 &lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/비회원로그인&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그아웃&lt;/i&gt;&lt;/p&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/로그아웃&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;푸시메시지&quot;&gt;푸시메시지&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 매칭알람&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쪽지 보내기/받기&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;좋아요&quot;&gt;좋아요&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 좋아요 추가/삭제&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Dateday</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-05T23:00:00+09:00</published><updated>2022-09-05T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 내 블로그를 활용한 커뮤니티 앱&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/develography.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
+
+&lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인/비회원로그인/로그아웃&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;웹뷰&quot;&gt;웹뷰&lt;/h3&gt;
 
