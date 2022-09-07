@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/etc/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-07T10:17:25+09:00</updated>
+  <updated>2022-09-08T00:03:35+09:00</updated>
   <id>https://shinyelee.github.io/tag/etc/feed.xml</id>
 
   
@@ -32,12 +32,31 @@
 
   
     <entry>
-      <title type="html">test</title>
-      <link href="https://shinyelee.github.io/test" rel="alternate" type="text/html" title="test" />
-      <published>2022-09-01T23:00:00+09:00</published>
-      <updated>2022-09-01T23:00:00+09:00</updated>
-      <id>https://shinyelee.github.io/test</id>
-      <content type="html" xml:base="https://shinyelee.github.io/test">&lt;p&gt;test&lt;/p&gt;</content>
+      <title type="html">코코아톡</title>
+      <link href="https://shinyelee.github.io/cocoatalk" rel="alternate" type="text/html" title="코코아톡" />
+      <published>2022-09-08T00:00:00+09:00</published>
+      <updated>2022-09-08T00:00:00+09:00</updated>
+      <id>https://shinyelee.github.io/cocoatalk</id>
+      <content type="html" xml:base="https://shinyelee.github.io/cocoatalk">&lt;h1 id=&quot;cocoa-talk&quot;&gt;Cocoa Talk&lt;/h1&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오톡 인터페이스 클론코딩&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/cocoatalk.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;../assets/../../assets/built/images/cocoatalk_.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;설명&quot;&gt;설명&lt;/h2&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 아래 기능을 제외한 나머지 페이지는 전부 HTML, CSS로만 구성돼 있습니다.&lt;/i&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;자바스크립트&quot;&gt;자바스크립트&lt;/h3&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 현재 시각 및 날짜&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 모달창&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오맵 API&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/kokoa-clone&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content>
 
       
       
@@ -58,7 +77,7 @@
       
 
       
-        <summary type="html">test</summary>
+        <summary type="html">Cocoa Talk</summary>
       
 
       
