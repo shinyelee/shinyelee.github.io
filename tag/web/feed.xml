@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/web/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-07T00:41:43+09:00</updated>
+  <updated>2022-09-07T10:17:25+09:00</updated>
   <id>https://shinyelee.github.io/tag/web/feed.xml</id>
 
   
@@ -41,14 +41,16 @@
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화 커뮤니티 웹 사이트&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/feelm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/feelm.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;시연-영상&quot;&gt;시연 영상&lt;/h2&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://youtu.be/LD7oE93kO_s&quot;&gt;메인페이지, 로그인, 로그아웃&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=eB0ALhptLC8&quot;&gt;회원가입, 이메일 인증&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=Kq-JueTqzu0&quot;&gt;회원정보 수정, 회원탈퇴&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=5qdetW070NM&quot;&gt;영화 리뷰, 리뷰 신고&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=5qdetW070NM&quot;&gt;영화 리뷰, 리뷰 신고&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://youtu.be/YZJiRL9Mtl4&quot;&gt;자유게시판&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://youtu.be/vMvigWk9huY&quot;&gt;오시는 길, 신작영화&lt;/a&gt;&lt;/i&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
 
@@ -57,12 +59,6 @@
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입(이메일 인증), 회원탈퇴&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 로그아웃&lt;/i&gt;&lt;br /&gt;
 &lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원정보 수정&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;관리자-계정&quot;&gt;관리자 계정&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시판 관리&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원정보 관리&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쇼핑몰 관리&lt;/i&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;카테고리-검색&quot;&gt;카테고리 검색&lt;/h3&gt;
 
@@ -76,9 +72,10 @@
 
 &lt;h3 id=&quot;기타-api&quot;&gt;기타 API&lt;/h3&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글 신고(관리자 이메일)&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성, 댓글 수정, 댓글 삭제&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 지도 및 우편번호&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 구글 이메일(리뷰 신고)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; DISQUS(댓글 작성, 댓글 수정, 댓글 삭제)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화진흥위원회(박스오피스 순위)&lt;/i&gt;&lt;br /&gt;
+&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오맵(지도 및 우편번호)&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
 
