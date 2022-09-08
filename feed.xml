@@ -1,23 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-08T00:03:35+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">코코아톡</title><link href="https://shinyelee.github.io/cocoatalk" rel="alternate" type="text/html" title="코코아톡" /><published>2022-09-08T00:00:00+09:00</published><updated>2022-09-08T00:00:00+09:00</updated><id>https://shinyelee.github.io/cocoatalk</id><content type="html" xml:base="https://shinyelee.github.io/cocoatalk">&lt;h1 id=&quot;cocoa-talk&quot;&gt;Cocoa Talk&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-09T01:02:26+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">코코아톡</title><link href="https://shinyelee.github.io/kokoa_talk" rel="alternate" type="text/html" title="코코아톡" /><published>2022-09-09T00:50:00+09:00</published><updated>2022-09-09T00:50:00+09:00</updated><id>https://shinyelee.github.io/kokoa_talk</id><content type="html" xml:base="https://shinyelee.github.io/kokoa_talk">&lt;h1 id=&quot;kokoatalk&quot;&gt;KokoaTalk&lt;/h1&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오톡 인터페이스 클론코딩&lt;/i&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오톡을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/../../assets/built/images/cocoatalk.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;../assets/../../assets/built/images/cocoatalk_.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/148503753-b8ce4ad7-90a5-4f7e-89b4-520a91cf2a76.jpg&quot; alt=&quot;kokoa_talk_cover&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;설명&quot;&gt;설명&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189161211-302a85b8-4241-4e3c-8efc-6328e6e09bfe.png&quot; alt=&quot;kokoa_talk_1&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 아래 기능을 제외한 나머지 페이지는 전부 HTML, CSS로만 구성돼 있습니다.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189161267-b260a98e-36b7-4e17-9e05-6f23af66a30e.png&quot; alt=&quot;kokoa_talk_2&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;자바스크립트&quot;&gt;자바스크립트&lt;/h3&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/kokoa_talk&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 현재 시각 및 날짜&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 모달창&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오맵 API&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/kokoa_talk/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/kokoa-clone&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">Cocoa Talk</summary></entry><entry><title type="html">필름</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름" /><published>2022-09-07T00:30:00+09:00</published><updated>2022-09-07T00:30:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm&quot;&gt;Feelm&lt;/h1&gt;
+&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">KokoaTalk</summary></entry><entry><title type="html">투두투두</title><link href="https://shinyelee.github.io/ttuduttudu" rel="alternate" type="text/html" title="투두투두" /><published>2022-09-08T00:00:00+09:00</published><updated>2022-09-08T00:00:00+09:00</updated><id>https://shinyelee.github.io/ttuduttudu</id><content type="html" xml:base="https://shinyelee.github.io/ttuduttudu">&lt;p&gt;test&lt;/p&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">test</summary></entry><entry><title type="html">필름</title><link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름" /><published>2022-09-07T00:30:00+09:00</published><updated>2022-09-07T00:30:00+09:00</updated><id>https://shinyelee.github.io/feelm</id><content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm&quot;&gt;Feelm&lt;/h1&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화 커뮤니티 웹 사이트&lt;/i&gt;&lt;/p&gt;
 

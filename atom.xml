@@ -10,14 +10,28 @@
       <item>
         <title>코코아톡</title>
         
-          <description>&lt;h1 id=&quot;cocoa-talk&quot;&gt;Cocoa Talk&lt;/h1&gt;
+          <description>&lt;h1 id=&quot;kokoatalk&quot;&gt;KokoaTalk&lt;/h1&gt;
 
+</description>
+        
+        <pubDate>Fri, 09 Sep 2022 00:50:00 +0900</pubDate>
+        <link>
+        https://shinyelee.github.io/kokoa_talk</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/kokoa_talk</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>투두투두</title>
+        
+          <description>&lt;p&gt;test&lt;/p&gt;
 </description>
         
         <pubDate>Thu, 08 Sep 2022 00:00:00 +0900</pubDate>
         <link>
-        https://shinyelee.github.io/cocoatalk</link>
-        <guid isPermaLink="true">https://shinyelee.github.io/cocoatalk</guid>
+        https://shinyelee.github.io/ttuduttudu</link>
+        <guid isPermaLink="true">https://shinyelee.github.io/ttuduttudu</guid>
       </item>
       
     
