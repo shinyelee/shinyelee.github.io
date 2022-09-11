@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-09T17:27:38+09:00</updated>
+  <updated>2022-09-12T00:43:33+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -34,8 +34,8 @@
     <entry>
       <title type="html">투두투두</title>
       <link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" />
-      <published>2022-09-09T11:50:00+09:00</published>
-      <updated>2022-09-09T11:50:00+09:00</updated>
+      <published>2022-09-12T00:30:00+09:00</published>
+      <updated>2022-09-12T00:30:00+09:00</updated>
       <id>https://shinyelee.github.io/TTU-DU_TTU-DU</id>
       <content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
 
@@ -43,11 +43,7 @@
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 모멘텀을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;!-- ![ttu-du_ttu-du_cover](이미지 주소) --&gt;
-
-&lt;!-- ![ttu-du_ttu-du_1](이미지 주소) --&gt;
-
-&lt;!-- ![ttu-du_ttu-du_2](이미지 주소) --&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189535837-40fc1b68-2934-4709-a549-7c1de98e1d11.png&quot; alt=&quot;ttu-du_ttu-du_cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/ttu-du_ttu-du&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
@@ -83,21 +79,17 @@
   
     <entry>
       <title type="html">코코아톡</title>
-      <link href="https://shinyelee.github.io/KokoaTalk" rel="alternate" type="text/html" title="코코아톡" />
-      <published>2022-09-09T00:50:00+09:00</published>
-      <updated>2022-09-09T00:50:00+09:00</updated>
-      <id>https://shinyelee.github.io/KokoaTalk</id>
-      <content type="html" xml:base="https://shinyelee.github.io/KokoaTalk">&lt;h1 id=&quot;kokoatalk&quot;&gt;KokoaTalk&lt;/h1&gt;
+      <link href="https://shinyelee.github.io/Kokoa_Talk" rel="alternate" type="text/html" title="코코아톡" />
+      <published>2022-09-09T11:50:00+09:00</published>
+      <updated>2022-09-09T11:50:00+09:00</updated>
+      <id>https://shinyelee.github.io/Kokoa_Talk</id>
+      <content type="html" xml:base="https://shinyelee.github.io/Kokoa_Talk">&lt;h1 id=&quot;kokoa-talk&quot;&gt;Kokoa Talk&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오톡을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/148503753-b8ce4ad7-90a5-4f7e-89b4-520a91cf2a76.jpg&quot; alt=&quot;kokoa_talk_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189161211-302a85b8-4241-4e3c-8efc-6328e6e09bfe.png&quot; alt=&quot;kokoa_talk_1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189161267-b260a98e-36b7-4e17-9e05-6f23af66a30e.png&quot; alt=&quot;kokoa_talk_2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/kokoa_talk&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
@@ -124,7 +116,7 @@
       
 
       
-        <summary type="html">KokoaTalk</summary>
+        <summary type="html">Kokoa Talk</summary>
       
 
       
