@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-13T02:52:11+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">투두투두</title><link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" /><published>2022-09-12T00:30:00+09:00</published><updated>2022-09-12T00:30:00+09:00</updated><id>https://shinyelee.github.io/TTU-DU_TTU-DU</id><content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-15T22:41:23+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">데이트데이</title><link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트데이" /><published>2022-09-15T22:00:00+09:00</published><updated>2022-09-15T22:00:00+09:00</updated><id>https://shinyelee.github.io/dateday</id><content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;dateday&quot;&gt;Dateday&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 데이팅 매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718538-7fdb3edb-30d4-42cc-b33d-d2b7bbdf7bf4.PNG&quot; alt=&quot;dateday_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Dateday</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-14T23:00:00+09:00</published><updated>2022-09-14T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 블로그를 활용한 커뮤니티 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718309-b1d6f48b-2179-4fc5-9406-8ee1397db373.PNG&quot; alt=&quot;develography_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry><entry><title type="html">투두투두</title><link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" /><published>2022-09-12T00:30:00+09:00</published><updated>2022-09-12T00:30:00+09:00</updated><id>https://shinyelee.github.io/TTU-DU_TTU-DU</id><content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 모멘텀을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
@@ -35,64 +55,11 @@
 &lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">Feelm</summary></entry><entry><title type="html">러빗</title><link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="러빗" /><published>2022-09-07T00:00:00+09:00</published><updated>2022-09-07T00:00:00+09:00</updated><id>https://shinyelee.github.io/loveeat</id><content type="html" xml:base="https://shinyelee.github.io/loveeat">&lt;h1 id=&quot;loveeat&quot;&gt;Loveeat&lt;/h1&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 요리 커뮤니티 겸 밀키트 판매 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 요리 커뮤니티 겸 밀키트 쇼핑몰 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111944919-0a1dc380-8b1c-11eb-8d24-55fb487d2f99.PNG&quot; alt=&quot;loveeat_cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/luvit&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">Loveeat</summary></entry><entry><title type="html">데이트데이</title><link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트데이" /><published>2022-09-06T22:00:00+09:00</published><updated>2022-09-06T22:00:00+09:00</updated><id>https://shinyelee.github.io/dateday</id><content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;dateday&quot;&gt;Dateday&lt;/h1&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 서로 좋아요 한 사용자끼리 매칭해주는 데이팅 앱&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718538-7fdb3edb-30d4-42cc-b33d-d2b7bbdf7bf4.PNG&quot; alt=&quot;dateday_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
-
-&lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 로그아웃&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;푸시메시지&quot;&gt;푸시메시지&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 매칭 알람&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 쪽지 보내기, 쪽지 받기&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;좋아요&quot;&gt;좋아요&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 좋아요 추가, 좋아요 삭제&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Dateday</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-05T23:00:00+09:00</published><updated>2022-09-05T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 내 블로그를 활용한 커뮤니티 앱&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718309-b1d6f48b-2179-4fc5-9406-8ee1397db373.PNG&quot; alt=&quot;develography_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;주요-기능&quot;&gt;주요 기능&lt;/h2&gt;
-
-&lt;h3 id=&quot;인증&quot;&gt;인증&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 회원가입&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 로그인, 비회원 로그인, 로그아웃&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;웹뷰&quot;&gt;웹뷰&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 웹뷰, 썸네일&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;게시판&quot;&gt;게시판&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 글 작성, 글 수정, 글 삭제&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 댓글 작성, 댓글 수정, 댓글 삭제&lt;/i&gt;&lt;br /&gt;
-&lt;i class=&quot;fa fa-caret-right&quot;&gt; 게시글에 이미지 첨부&lt;/i&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;북마크&quot;&gt;북마크&lt;/h3&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 북마크 추가, 북마크 삭제&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-search&quot;&gt; &lt;em&gt;자세한 내용은 &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브&lt;/a&gt; 참고&lt;/em&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry></feed>
+&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">Loveeat</summary></entry></feed>
