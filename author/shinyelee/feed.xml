@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-09-26T00:25:50+09:00</updated>
+  <updated>2022-10-09T14:38:20+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -32,64 +32,18 @@
 
   
     <entry>
-      <title type="html">존짤</title>
-      <link href="https://shinyelee.github.io/Jonjjal" rel="alternate" type="text/html" title="존짤" />
-      <published>2022-09-25T23:40:00+09:00</published>
-      <updated>2022-09-25T23:40:00+09:00</updated>
-      <id>https://shinyelee.github.io/Jonjjal</id>
-      <content type="html" xml:base="https://shinyelee.github.io/Jonjjal">&lt;h1 id=&quot;jonjjal&quot;&gt;Jonjjal&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 그림판 기능의 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/192089225-b959cf45-1454-42bc-84e5-37e7018380c9.png&quot; alt=&quot;jonjjal_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal/&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- 링크 --&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>shinyelee</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="etc" />
-      
-
-      
-        <summary type="html">Jonjjal</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">데이트데이</title>
-      <link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트데이" />
-      <published>2022-09-15T22:00:00+09:00</published>
-      <updated>2022-09-15T22:00:00+09:00</updated>
+      <title type="html">데이트</title>
+      <link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트" />
+      <published>2022-10-06T22:00:00+09:00</published>
+      <updated>2022-10-06T22:00:00+09:00</updated>
       <id>https://shinyelee.github.io/dateday</id>
-      <content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;dateday&quot;&gt;Dateday&lt;/h1&gt;
+      <content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;day2&quot;&gt;DAY2&lt;/h1&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 데이팅 매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; FCM을 이용한 데이트/매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718538-7fdb3edb-30d4-42cc-b33d-d2b7bbdf7bf4.PNG&quot; alt=&quot;dateday_cover&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/193454768-3bb5a2d3-6d1a-4605-82d0-6c94e54c6130.png&quot; alt=&quot;day2_cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
@@ -114,7 +68,7 @@
       
 
       
-        <summary type="html">Dateday</summary>
+        <summary type="html">DAY2</summary>
       
 
       
@@ -124,8 +78,8 @@
     <entry>
       <title type="html">신예리의 개발전기</title>
       <link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" />
-      <published>2022-09-14T23:00:00+09:00</published>
-      <updated>2022-09-14T23:00:00+09:00</updated>
+      <published>2022-10-05T23:00:00+09:00</published>
+      <updated>2022-10-05T23:00:00+09:00</updated>
       <id>https://shinyelee.github.io/develography</id>
       <content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
 
@@ -159,6 +113,52 @@
 
       
         <summary type="html">Develography</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">존짤</title>
+      <link href="https://shinyelee.github.io/Jonjjal" rel="alternate" type="text/html" title="존짤" />
+      <published>2022-09-25T23:40:00+09:00</published>
+      <updated>2022-09-25T23:40:00+09:00</updated>
+      <id>https://shinyelee.github.io/Jonjjal</id>
+      <content type="html" xml:base="https://shinyelee.github.io/Jonjjal">&lt;h1 id=&quot;jonjjal&quot;&gt;Jonjjal&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 그림판 기능의 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/192089225-b959cf45-1454-42bc-84e5-37e7018380c9.png&quot; alt=&quot;jonjjal_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal/&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/jonjjal/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- 링크 --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="web" />
+      
+
+      
+        <summary type="html">Jonjjal</summary>
       
 
       
@@ -200,7 +200,7 @@
       
 
       
-        <category term="etc" />
+        <category term="web" />
       
 
       

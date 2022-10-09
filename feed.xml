@@ -1,26 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-09-26T00:25:50+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">존짤</title><link href="https://shinyelee.github.io/Jonjjal" rel="alternate" type="text/html" title="존짤" /><published>2022-09-25T23:40:00+09:00</published><updated>2022-09-25T23:40:00+09:00</updated><id>https://shinyelee.github.io/Jonjjal</id><content type="html" xml:base="https://shinyelee.github.io/Jonjjal">&lt;h1 id=&quot;jonjjal&quot;&gt;Jonjjal&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="https://shinyelee.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://shinyelee.github.io/" rel="alternate" type="text/html" /><updated>2022-10-09T14:38:20+09:00</updated><id>https://shinyelee.github.io/</id><title type="html">shinyelee.github.io</title><subtitle>프로젝트 정리 겸 포트폴리오용</subtitle><entry><title type="html">데이트</title><link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트" /><published>2022-10-06T22:00:00+09:00</published><updated>2022-10-06T22:00:00+09:00</updated><id>https://shinyelee.github.io/dateday</id><content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;day2&quot;&gt;DAY2&lt;/h1&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 그림판 기능의 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; FCM을 이용한 데이트/매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/192089225-b959cf45-1454-42bc-84e5-37e7018380c9.png&quot; alt=&quot;jonjjal_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal/&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">Jonjjal</summary></entry><entry><title type="html">데이트데이</title><link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트데이" /><published>2022-09-15T22:00:00+09:00</published><updated>2022-09-15T22:00:00+09:00</updated><id>https://shinyelee.github.io/dateday</id><content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;dateday&quot;&gt;Dateday&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 데이팅 매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/189718538-7fdb3edb-30d4-42cc-b33d-d2b7bbdf7bf4.PNG&quot; alt=&quot;dateday_cover&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/193454768-3bb5a2d3-6d1a-4605-82d0-6c94e54c6130.png&quot; alt=&quot;day2_cover&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/Dating_App&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Dateday</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-09-14T23:00:00+09:00</published><updated>2022-09-14T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">DAY2</summary></entry><entry><title type="html">신예리의 개발전기</title><link href="https://shinyelee.github.io/develography" rel="alternate" type="text/html" title="신예리의 개발전기" /><published>2022-10-05T23:00:00+09:00</published><updated>2022-10-05T23:00:00+09:00</updated><id>https://shinyelee.github.io/develography</id><content type="html" xml:base="https://shinyelee.github.io/develography">&lt;h1 id=&quot;develography&quot;&gt;Develography&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 블로그를 활용한 커뮤니티 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
@@ -30,7 +18,19 @@
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/my-solo-life&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry><entry><title type="html">투두투두</title><link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" /><published>2022-09-12T00:30:00+09:00</published><updated>2022-09-12T00:30:00+09:00</updated><id>https://shinyelee.github.io/TTU-DU_TTU-DU</id><content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
+&lt;!-- Markdown link &amp; img dfn's --&gt;</content><author><name>shinyelee</name></author><category term="android" /><summary type="html">Develography</summary></entry><entry><title type="html">존짤</title><link href="https://shinyelee.github.io/Jonjjal" rel="alternate" type="text/html" title="존짤" /><published>2022-09-25T23:40:00+09:00</published><updated>2022-09-25T23:40:00+09:00</updated><id>https://shinyelee.github.io/Jonjjal</id><content type="html" xml:base="https://shinyelee.github.io/Jonjjal">&lt;h1 id=&quot;jonjjal&quot;&gt;Jonjjal&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 그림판 기능의 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/192089225-b959cf45-1454-42bc-84e5-37e7018380c9.png&quot; alt=&quot;jonjjal_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/jonjjal/&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/jonjjal/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">Jonjjal</summary></entry><entry><title type="html">투두투두</title><link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" /><published>2022-09-12T00:30:00+09:00</published><updated>2022-09-12T00:30:00+09:00</updated><id>https://shinyelee.github.io/TTU-DU_TTU-DU</id><content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 모멘텀을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
@@ -42,7 +42,7 @@
 
 &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/ttu-du_ttu-du/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
-&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="etc" /><summary type="html">TTU-DU TTU-DU</summary></entry><entry><title type="html">코코아톡</title><link href="https://shinyelee.github.io/Kokoa_Talk" rel="alternate" type="text/html" title="코코아톡" /><published>2022-09-09T11:50:00+09:00</published><updated>2022-09-09T11:50:00+09:00</updated><id>https://shinyelee.github.io/Kokoa_Talk</id><content type="html" xml:base="https://shinyelee.github.io/Kokoa_Talk">&lt;h1 id=&quot;kokoa-talk&quot;&gt;Kokoa Talk&lt;/h1&gt;
+&lt;!-- 링크 --&gt;</content><author><name>shinyelee</name></author><category term="web" /><summary type="html">TTU-DU TTU-DU</summary></entry><entry><title type="html">코코아톡</title><link href="https://shinyelee.github.io/Kokoa_Talk" rel="alternate" type="text/html" title="코코아톡" /><published>2022-09-09T11:50:00+09:00</published><updated>2022-09-09T11:50:00+09:00</updated><id>https://shinyelee.github.io/Kokoa_Talk</id><content type="html" xml:base="https://shinyelee.github.io/Kokoa_Talk">&lt;h1 id=&quot;kokoa-talk&quot;&gt;Kokoa Talk&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 카카오톡을 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
