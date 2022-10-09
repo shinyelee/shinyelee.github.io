@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-10-09T14:38:20+09:00</updated>
+  <updated>2022-10-09T17:54:13+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">데이트</title>
-      <link href="https://shinyelee.github.io/dateday" rel="alternate" type="text/html" title="데이트" />
-      <published>2022-10-06T22:00:00+09:00</published>
-      <updated>2022-10-06T22:00:00+09:00</updated>
-      <id>https://shinyelee.github.io/dateday</id>
-      <content type="html" xml:base="https://shinyelee.github.io/dateday">&lt;h1 id=&quot;day2&quot;&gt;DAY2&lt;/h1&gt;
+      <link href="https://shinyelee.github.io/DAY2" rel="alternate" type="text/html" title="데이트" />
+      <published>2022-10-09T17:50:00+09:00</published>
+      <updated>2022-10-09T17:50:00+09:00</updated>
+      <id>https://shinyelee.github.io/DAY2</id>
+      <content type="html" xml:base="https://shinyelee.github.io/DAY2">&lt;h1 id=&quot;day2&quot;&gt;DAY2&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; FCM을 이용한 데이트/매칭 앱 프로젝트&lt;/i&gt;&lt;/p&gt;
@@ -168,8 +168,8 @@
     <entry>
       <title type="html">투두투두</title>
       <link href="https://shinyelee.github.io/TTU-DU_TTU-DU" rel="alternate" type="text/html" title="투두투두" />
-      <published>2022-09-12T00:30:00+09:00</published>
-      <updated>2022-09-12T00:30:00+09:00</updated>
+      <published>2022-09-22T00:30:00+09:00</published>
+      <updated>2022-09-22T00:30:00+09:00</updated>
       <id>https://shinyelee.github.io/TTU-DU_TTU-DU</id>
       <content type="html" xml:base="https://shinyelee.github.io/TTU-DU_TTU-DU">&lt;h1 id=&quot;ttu-du-ttu-du&quot;&gt;TTU-DU TTU-DU&lt;/h1&gt;
 
@@ -212,10 +212,56 @@
     </entry>
   
     <entry>
+      <title type="html">scss-마스터클래스</title>
+      <link href="https://shinyelee.github.io/scss-masterclass" rel="alternate" type="text/html" title="scss-마스터클래스" />
+      <published>2022-09-16T11:50:00+09:00</published>
+      <updated>2022-09-16T11:50:00+09:00</updated>
+      <id>https://shinyelee.github.io/scss-masterclass</id>
+      <content type="html" xml:base="https://shinyelee.github.io/scss-masterclass">&lt;h1 id=&quot;scss-masterclass&quot;&gt;scss-masterclass&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 여러 웹사이트를 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/194714313-b6a2182b-ad53-4bf7-bf72-520bd1493bc4.PNG&quot; alt=&quot;scss-masterclass_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/scss-masterclass&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/scss-masterclass/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- 링크 --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="etc" />
+      
+
+      
+        <summary type="html">scss-masterclass</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">코코아톡</title>
       <link href="https://shinyelee.github.io/Kokoa_Talk" rel="alternate" type="text/html" title="코코아톡" />
-      <published>2022-09-09T11:50:00+09:00</published>
-      <updated>2022-09-09T11:50:00+09:00</updated>
+      <published>2022-09-12T11:50:00+09:00</published>
+      <updated>2022-09-12T11:50:00+09:00</updated>
       <id>https://shinyelee.github.io/Kokoa_Talk</id>
       <content type="html" xml:base="https://shinyelee.github.io/Kokoa_Talk">&lt;h1 id=&quot;kokoa-talk&quot;&gt;Kokoa Talk&lt;/h1&gt;
 
@@ -258,50 +304,6 @@
     </entry>
   
     <entry>
-      <title type="html">필름</title>
-      <link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름" />
-      <published>2022-09-07T00:30:00+09:00</published>
-      <updated>2022-09-07T00:30:00+09:00</updated>
-      <id>https://shinyelee.github.io/feelm</id>
-      <content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm&quot;&gt;Feelm&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화 커뮤니티 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112328623-dd270780-8cf9-11eb-9a97-b486ecd6bcf3.PNG&quot; alt=&quot;feelm_cover&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
-
-&lt;!-- 링크 --&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>shinyelee</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="web" />
-      
-
-      
-        <summary type="html">Feelm</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
       <title type="html">러빗</title>
       <link href="https://shinyelee.github.io/loveeat" rel="alternate" type="text/html" title="러빗" />
       <published>2022-09-07T00:00:00+09:00</published>
@@ -315,7 +317,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/111944919-0a1dc380-8b1c-11eb-8d24-55fb487d2f99.PNG&quot; alt=&quot;loveeat_cover&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/luvit&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/loveeat&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
 
 &lt;!-- 링크 --&gt;</content>
 
@@ -339,6 +341,52 @@
 
       
         <summary type="html">Loveeat</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">필름</title>
+      <link href="https://shinyelee.github.io/feelm" rel="alternate" type="text/html" title="필름" />
+      <published>2022-09-03T00:30:00+09:00</published>
+      <updated>2022-09-03T00:30:00+09:00</updated>
+      <id>https://shinyelee.github.io/feelm</id>
+      <content type="html" xml:base="https://shinyelee.github.io/feelm">&lt;h1 id=&quot;feelm&quot;&gt;Feelm&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 영화 커뮤니티 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/112328623-dd270780-8cf9-11eb-9a97-b486ecd6bcf3.PNG&quot; alt=&quot;feelm_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/Moviehere&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://www.youtube.com/playlist?list=PLu_M-qKXkbvNLg5dgwucHSp10Szb51ZE-&quot;&gt;시연 영상 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- 링크 --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="web" />
+      
+
+      
+        <summary type="html">Feelm</summary>
       
 
       

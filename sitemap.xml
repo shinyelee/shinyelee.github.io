@@ -4,9 +4,9 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>https://shinyelee.github.io/dateday.html</loc>
+        <loc>https://shinyelee.github.io/DAY2.html</loc>
         
-        <lastmod>2022-10-06T22:00:00+09:00</lastmod>
+        <lastmod>2022-10-09T17:50:00+09:00</lastmod>
         
 
         
@@ -54,7 +54,23 @@
     <url>
         <loc>https://shinyelee.github.io/TTU-DU_TTU-DU.html</loc>
         
-        <lastmod>2022-09-12T00:30:00+09:00</lastmod>
+        <lastmod>2022-09-22T00:30:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://shinyelee.github.io/scss-masterclass.html</loc>
+        
+        <lastmod>2022-09-16T11:50:00+09:00</lastmod>
         
 
         
@@ -70,23 +86,7 @@
     <url>
         <loc>https://shinyelee.github.io/Kokoa_Talk.html</loc>
         
-        <lastmod>2022-09-09T11:50:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>https://shinyelee.github.io/feelm.html</loc>
-        
-        <lastmod>2022-09-07T00:30:00+09:00</lastmod>
+        <lastmod>2022-09-12T11:50:00+09:00</lastmod>
         
 
         
@@ -103,6 +103,22 @@
         <loc>https://shinyelee.github.io/loveeat.html</loc>
         
         <lastmod>2022-09-07T00:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>https://shinyelee.github.io/feelm.html</loc>
+        
+        <lastmod>2022-09-03T00:30:00+09:00</lastmod>
         
 
         

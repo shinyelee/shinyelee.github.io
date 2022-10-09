@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/tag/etc/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-10-09T14:38:20+09:00</updated>
+  <updated>2022-10-09T17:54:13+09:00</updated>
   <id>https://shinyelee.github.io/tag/etc/feed.xml</id>
 
   
@@ -32,10 +32,56 @@
 
   
     <entry>
+      <title type="html">scss-마스터클래스</title>
+      <link href="https://shinyelee.github.io/scss-masterclass" rel="alternate" type="text/html" title="scss-마스터클래스" />
+      <published>2022-09-16T11:50:00+09:00</published>
+      <updated>2022-09-16T11:50:00+09:00</updated>
+      <id>https://shinyelee.github.io/scss-masterclass</id>
+      <content type="html" xml:base="https://shinyelee.github.io/scss-masterclass">&lt;h1 id=&quot;scss-masterclass&quot;&gt;scss-masterclass&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 여러 웹사이트를 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/68595933/194714313-b6a2182b-ad53-4bf7-bf72-520bd1493bc4.PNG&quot; alt=&quot;scss-masterclass_cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://github.com/shinyelee/scss-masterclass&quot;&gt;깃허브 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; &lt;a href=&quot;https://shinyelee.github.io/scss-masterclass/&quot;&gt;데모 사이트 바로가기&lt;/a&gt; &lt;/i&gt;&lt;/p&gt;
+
+&lt;!-- 링크 --&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>shinyelee</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="etc" />
+      
+
+      
+        <summary type="html">scss-masterclass</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">코코아톡</title>
       <link href="https://shinyelee.github.io/Kokoa_Talk" rel="alternate" type="text/html" title="코코아톡" />
-      <published>2022-09-09T11:50:00+09:00</published>
-      <updated>2022-09-09T11:50:00+09:00</updated>
+      <published>2022-09-12T11:50:00+09:00</published>
+      <updated>2022-09-12T11:50:00+09:00</updated>
       <id>https://shinyelee.github.io/Kokoa_Talk</id>
       <content type="html" xml:base="https://shinyelee.github.io/Kokoa_Talk">&lt;h1 id=&quot;kokoa-talk&quot;&gt;Kokoa Talk&lt;/h1&gt;
 
