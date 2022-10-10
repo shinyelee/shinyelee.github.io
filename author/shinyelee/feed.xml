@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://shinyelee.github.io/author/shinyelee/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://shinyelee.github.io/" rel="alternate" type="text/html" />
-  <updated>2022-10-09T17:54:13+09:00</updated>
+  <updated>2022-10-10T22:10:51+09:00</updated>
   <id>https://shinyelee.github.io/author/shinyelee/feed.xml</id>
 
   
@@ -212,12 +212,12 @@
     </entry>
   
     <entry>
-      <title type="html">scss-마스터클래스</title>
-      <link href="https://shinyelee.github.io/scss-masterclass" rel="alternate" type="text/html" title="scss-마스터클래스" />
+      <title type="html">SCSS-마스터클래스</title>
+      <link href="https://shinyelee.github.io/SCSS-masterclass" rel="alternate" type="text/html" title="SCSS-마스터클래스" />
       <published>2022-09-16T11:50:00+09:00</published>
       <updated>2022-09-16T11:50:00+09:00</updated>
-      <id>https://shinyelee.github.io/scss-masterclass</id>
-      <content type="html" xml:base="https://shinyelee.github.io/scss-masterclass">&lt;h1 id=&quot;scss-masterclass&quot;&gt;scss-masterclass&lt;/h1&gt;
+      <id>https://shinyelee.github.io/SCSS-masterclass</id>
+      <content type="html" xml:base="https://shinyelee.github.io/SCSS-masterclass">&lt;h1 id=&quot;scss-masterclass&quot;&gt;scss-masterclass&lt;/h1&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;i class=&quot;fa fa-caret-right&quot;&gt; 여러 웹사이트를 클론코딩한 웹 프로젝트&lt;/i&gt;&lt;/p&gt;
